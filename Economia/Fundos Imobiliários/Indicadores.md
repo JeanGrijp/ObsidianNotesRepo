@@ -1,3 +1,8 @@
+---
+tags:
+  - economia
+  - FII
+---
 # IFIX
 
 Quando se trata de [[Fundos Imobiliários]], o Índice que mede o desempenho dos 71 melhores FII da Bolsa de Valores é chamado de **Índice de Fundos de Investimentos Imobiliários (IFIX)**, semelhante o IBOVESPA (Ações).
@@ -10,4 +15,4 @@ São três os critérios para que um ativo componha o IFIX:
 
 – Ter presença em pregão de 60% no período de vigência das 3 carteiras anteriores;
 
-– Não ser classificado como **“[Penny Stock](https://www.notion.so/Penny-Stock-1070eccd48a18039bdc0dd0fa8fc4d5b?pvs=21)”, com cotação abaixo de R$ 1.
+– Não ser classificado como **“[Penny Stock](https://www.notion.so/Penny-Stock-1070eccd48a18039bdc0dd0fa8fc4d5b?pvs=21)”, com cotação abaixo de R$ 1,00.
