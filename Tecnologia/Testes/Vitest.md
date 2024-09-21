@@ -5,7 +5,7 @@ tags:
 ---
 # Como criar testes unitários no front-end com react.js e Vitest
 
-Criar testes unitários no front-end usando [React.js](React.js.md) pode ser feito com várias ferramentas, mas uma das mais populares é o `Jest`, frequentemente combinado com a biblioteca `React Testing Library`. Aqui está um guia básico para começar:
+Criar [Testes unitários no front-end](Testes%20unitários%20no%20front-end.md) usando [React.js](React.js.md) pode ser feito com várias ferramentas, mas uma das mais populares é o `Jest`, frequentemente combinado com a biblioteca `React Testing Library`. Aqui está um guia básico para começar:
 ### Passo 1: Instalação das Dependências
 
 Primeiro, instale o `Jest` e o `React Testing Library` no seu projeto:

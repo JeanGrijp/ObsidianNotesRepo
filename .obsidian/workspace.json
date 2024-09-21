@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "98c58bac9fe0a863",
+        "id": "101e360a812471ff",
         "type": "tabs",
-        "dimension": 69.45337620578778,
+        "dimension": 59.35569285083848,
         "children": [
           {
-            "id": "9419c67e59ef18b3",
+            "id": "37c6f63fbca36598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Front-end/Next/Routes no Next.js.md",
-                "mode": "preview",
+                "file": "Tecnologia/Testes/Vitest.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,9 +23,9 @@
         ]
       },
       {
-        "id": "101e360a812471ff",
+        "id": "aef597eb0bed92f7",
         "type": "tabs",
-        "dimension": 30.54662379421222,
+        "dimension": 40.64430714916152,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tecnologia/Testes/Vitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tecnologia/Testes/Vitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tecnologia/Testes/Vitest.md"
+              }
             }
           },
           {
@@ -181,10 +185,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53f7637c5f86cd48",
+  "active": "cde5901b95b3e102",
   "lastOpenFiles": [
-    "Tecnologia/Front-end/Next/Routes no Next.js.md",
+    "Tecnologia/Testes/Testes E2E",
+    "Tecnologia/Testes/Testes de Integração",
+    "Tecnologia/Testes/Testes Unitários",
     "Tecnologia/Front-end/Next/Next.js.md",
+    "Tecnologia/Front-end/React/Debounce/Debounce.md",
+    "Tecnologia/Front-end/React/React.js.md",
+    "Economia/Renda Variável/Renda Variável.md",
+    "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
+    "Economia/Teoria Econômica/Utilidade Marginal.md",
+    "Economia/Teoria Econômica/Ludwing Von Mises.md",
+    "Economia/Teoria Econômica/Mercado.md",
+    "Economia/Teoria Econômica",
+    "Tecnologia/Front-end/Next/CSR.md",
+    "Tecnologia/Front-end/Next/SSG.md",
+    "Tecnologia/Front-end/Next/SSR.md",
+    "Routes.md",
+    "Tecnologia/Banck-end/Back-end.md",
+    "Tecnologia/Testes/Testes Unitários/Testes unitários no front-end.md",
+    "Tecnologia/Front-end/React/Ciclo de vida.md",
+    "Tecnologia/Front-end/Next/Routes no Next.js.md",
     "Tecnologia/Linguagem de programação/JavaScript/JavaScript.md",
     "Tecnologia/Linguagem de programação/Sem título.md",
     "Tecnologia/Linguagem de programação/Sem título 1.md",
@@ -192,35 +214,17 @@
     "Tecnologia/Linguagem de programação/TypeScript/TypeScript.md",
     "Tecnologia/Linguagem de programação/TypeScript",
     "Tecnologia/Linguagem de programação",
-    "Tecnologia/Front-end/React/React.js.md",
-    "Tecnologia/Front-end/React/Debounce/Debounce.md",
     "Tecnologia/Banck-end/Node/Nest/Nest.js.md",
     "Tecnologia/Banck-end/Node/Nest",
     "Tecnologia/Front-end/Next",
-    "Tecnologia/Front-end/React/Sem título.md",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Tecnologia/Front-end/React/Debounce",
     "Tecnologia",
     "Economia/Fundos Imobiliários/Indicadores.md",
-    "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
     "Economia/Renda Fixa/Renda Fixa.md",
-    "Economia/Renda Variável/Renda Variável.md",
     "ETFs.md",
     "Economia/ETF/ETF.md",
-    "Tecnologia/Testes/Testes unitários no front-end.md",
-    "Economia/Escola Austríaca.md",
-    "Economia/Economistas na escola austríaca.md",
-    "Economia/Ludwing Von Mises.md",
-    "Economia/Mercado.md",
-    "Economia/Murray Rothbard.md",
-    "Economia/Renda Fixa",
-    "Inglês/Gramática.md",
-    "Economia/Renda Variável",
-    "Tecnologia/Banck-end/Csharp/Dotnet.md",
-    "README.md",
-    "2024-09-21.md",
-    "Tecnologia/Banck-end/Csharp",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Sem título 2.canvas"
