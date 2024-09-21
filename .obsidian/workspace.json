@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Front-end/Next/Routes.md",
-                "mode": "source",
+                "file": "Tecnologia/Front-end/Next/Routes no Next.js.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -163,24 +163,10 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "d329a6c57bdad3f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "438d92462eb70e85",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "53f7637c5f86cd48",
   "lastOpenFiles": [
-    "Tecnologia/Front-end/Next/Routes.md",
+    "Tecnologia/Front-end/Next/Routes no Next.js.md",
     "Tecnologia/Front-end/Next/Next.js.md",
+    "Tecnologia/Linguagem de programação/JavaScript/JavaScript.md",
+    "Tecnologia/Linguagem de programação/Sem título.md",
+    "Tecnologia/Linguagem de programação/Sem título 1.md",
+    "Tecnologia/Linguagem de programação/JavaScript",
+    "Tecnologia/Linguagem de programação/TypeScript/TypeScript.md",
+    "Tecnologia/Linguagem de programação/TypeScript",
+    "Tecnologia/Linguagem de programação",
     "Tecnologia/Front-end/React/React.js.md",
     "Tecnologia/Front-end/React/Debounce/Debounce.md",
     "Tecnologia/Banck-end/Node/Nest/Nest.js.md",
@@ -208,7 +201,6 @@
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Tecnologia/Front-end/React/Debounce",
-    "Sem título",
     "Tecnologia",
     "Economia/Fundos Imobiliários/Indicadores.md",
     "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
@@ -229,12 +221,6 @@
     "README.md",
     "2024-09-21.md",
     "Tecnologia/Banck-end/Csharp",
-    "Tecnologia/Banck-end/Node",
-    "Economia/Finanças pessoais/Finanças pessoais.md",
-    "Tecnologia/Blockchain",
-    "Economia/BDR/BDR.md",
-    "Economia/Ações/Ações.md",
-    "Economia/Fundos Imobiliários/Termos/Penny Stock.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Sem título 2.canvas"

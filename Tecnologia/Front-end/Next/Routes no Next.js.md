@@ -3,14 +3,12 @@ tags:
   - front-end
   - Tecnologia
 ---
-# Roteamento no Next.js
-
 No [Next.js](Next.js.md), o roteamento é feito de maneira bem simples e automática através do sistema de **file-based routing**. Isso significa que o roteamento é baseado nos arquivos e pastas dentro do diretório `pages`. Cada arquivo ou pasta dentro de `pages` automaticamente se torna uma rota da aplicação.
 
 Aqui está um resumo de como o roteamento funciona no Next.js:
 
 ### 1. Roteamento Básico:
-Qualquer arquivo JavaScript ou TypeScript dentro da pasta `pages` se torna uma rota.
+Qualquer arquivo [JavaScript](JavaScript.md) ou [TypeScript](TypeScript.md) dentro da pasta `pages` se torna uma rota.
 
 - Se você criar um arquivo `about.js` dentro de `pages`, ele será acessível através da rota `/about`.
 - O arquivo `index.js` dentro de `pages` será a rota principal (`/`).
