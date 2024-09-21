@@ -11,7 +11,7 @@
       "query": "Tecnologia",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 4607
       }
     },
     {
@@ -27,18 +27,32 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "Filosofia",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    },
+    {
+      "query": "Idiomas",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.865625,
-  "lineSizeMultiplier": 1.52916666666667,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 0.967708333333333,
+  "lineSizeMultiplier": 2.52447916666667,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.635416666666667,
   "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 174,
+  "linkStrength": 0.760416666666667,
+  "linkDistance": 94,
   "scale": 0.7132754626224439,
   "close": true
 }
