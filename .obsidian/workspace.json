@@ -6,6 +6,26 @@
       {
         "id": "98c58bac9fe0a863",
         "type": "tabs",
+        "dimension": 69.45337620578778,
+        "children": [
+          {
+            "id": "9419c67e59ef18b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Front-end/Next/Routes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "101e360a812471ff",
+        "type": "tabs",
+        "dimension": 30.54662379421222,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -177,13 +197,26 @@
   },
   "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Tecnologia/Front-end/Next/Routes.md",
+    "Tecnologia/Front-end/Next/Next.js.md",
+    "Tecnologia/Front-end/React/React.js.md",
+    "Tecnologia/Front-end/React/Debounce/Debounce.md",
+    "Tecnologia/Banck-end/Node/Nest/Nest.js.md",
+    "Tecnologia/Banck-end/Node/Nest",
+    "Tecnologia/Front-end/Next",
+    "Tecnologia/Front-end/React/Sem título.md",
+    "Tecnologia/Front-end/React/Debounce/image.png",
+    "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
+    "Tecnologia/Front-end/React/Debounce",
+    "Sem título",
+    "Tecnologia",
     "Economia/Fundos Imobiliários/Indicadores.md",
     "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
     "Economia/Renda Fixa/Renda Fixa.md",
     "Economia/Renda Variável/Renda Variável.md",
     "ETFs.md",
     "Economia/ETF/ETF.md",
-    "Front-end/Testes/Testes unitários no front-end.md",
+    "Tecnologia/Testes/Testes unitários no front-end.md",
     "Economia/Escola Austríaca.md",
     "Economia/Economistas na escola austríaca.md",
     "Economia/Ludwing Von Mises.md",
@@ -192,25 +225,16 @@
     "Economia/Renda Fixa",
     "Inglês/Gramática.md",
     "Economia/Renda Variável",
-    "Sem título",
-    "Banck-end/Csharp/Dotnet.md",
+    "Tecnologia/Banck-end/Csharp/Dotnet.md",
     "README.md",
     "2024-09-21.md",
-    "Banck-end/Csharp",
-    "Banck-end/Node",
+    "Tecnologia/Banck-end/Csharp",
+    "Tecnologia/Banck-end/Node",
     "Economia/Finanças pessoais/Finanças pessoais.md",
-    "Blockchain",
-    "Banck-end",
-    "Inglês",
+    "Tecnologia/Blockchain",
     "Economia/BDR/BDR.md",
     "Economia/Ações/Ações.md",
     "Economia/Fundos Imobiliários/Termos/Penny Stock.md",
-    "Front-end/React/React.md",
-    "Front-end/React",
-    "Front-end/Testes/Vitest.md",
-    "202409211056.md",
-    "Economia/Fundos Imobiliários/Termos",
-    "Welcome.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Sem título 2.canvas"
