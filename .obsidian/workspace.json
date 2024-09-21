@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "99f17b2c65544140",
-        "type": "tabs",
-        "dimension": 67.66698935140369,
-        "children": [
-          {
-            "id": "b9bf7721f1c50514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economia/Renda Variável/Renda Variável.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "98c58bac9fe0a863",
         "type": "tabs",
-        "dimension": 32.33301064859632,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -197,14 +177,18 @@
   },
   "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Economia/Fundos Imobiliários/Indicadores.md",
+    "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
+    "Economia/Renda Fixa/Renda Fixa.md",
     "Economia/Renda Variável/Renda Variável.md",
+    "ETFs.md",
+    "Economia/ETF/ETF.md",
     "Front-end/Testes/Testes unitários no front-end.md",
     "Economia/Escola Austríaca.md",
     "Economia/Economistas na escola austríaca.md",
     "Economia/Ludwing Von Mises.md",
     "Economia/Mercado.md",
     "Economia/Murray Rothbard.md",
-    "Economia/Renda Fixa/Renda Fixa.md",
     "Economia/Renda Fixa",
     "Inglês/Gramática.md",
     "Economia/Renda Variável",
@@ -218,11 +202,8 @@
     "Blockchain",
     "Banck-end",
     "Inglês",
-    "Economia/ETF/ETF.md",
     "Economia/BDR/BDR.md",
     "Economia/Ações/Ações.md",
-    "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
-    "Economia/Fundos Imobiliários/Indicadores.md",
     "Economia/Fundos Imobiliários/Termos/Penny Stock.md",
     "Front-end/React/React.md",
     "Front-end/React",
