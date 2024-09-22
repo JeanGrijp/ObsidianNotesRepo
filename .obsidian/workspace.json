@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Testes/Vitest.md",
-                "mode": "source",
+                "file": "Economia/Teoria Econômica/Mercado.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologia/Testes/Vitest.md",
+                "file": "Economia/Teoria Econômica/Mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologia/Testes/Vitest.md",
+                "file": "Economia/Teoria Econômica/Mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologia/Testes/Vitest.md"
+                "file": "Economia/Teoria Econômica/Mercado.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,19 +185,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cde5901b95b3e102",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Economia/Teoria Econômica/Mercado.md",
+    "Economia/Renda Variável/Renda Variável.md",
+    "Renda Variável.pdf",
+    "Economia/Teoria Econômica/Ludwing Von Mises.md",
+    "Tecnologia/Testes/Vitest.md",
     "Tecnologia/Testes/Testes E2E",
     "Tecnologia/Testes/Testes de Integração",
     "Tecnologia/Testes/Testes Unitários",
     "Tecnologia/Front-end/Next/Next.js.md",
     "Tecnologia/Front-end/React/Debounce/Debounce.md",
     "Tecnologia/Front-end/React/React.js.md",
-    "Economia/Renda Variável/Renda Variável.md",
     "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
     "Economia/Teoria Econômica/Utilidade Marginal.md",
-    "Economia/Teoria Econômica/Ludwing Von Mises.md",
-    "Economia/Teoria Econômica/Mercado.md",
     "Economia/Teoria Econômica",
     "Tecnologia/Front-end/Next/CSR.md",
     "Tecnologia/Front-end/Next/SSG.md",
@@ -219,12 +221,9 @@
     "Tecnologia/Front-end/Next",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
-    "Tecnologia/Front-end/React/Debounce",
-    "Tecnologia",
     "Economia/Fundos Imobiliários/Indicadores.md",
     "Economia/Renda Fixa/Renda Fixa.md",
     "ETFs.md",
-    "Economia/ETF/ETF.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Sem título 2.canvas"
