@@ -6,6 +6,26 @@
       {
         "id": "0044c67367290bff",
         "type": "tabs",
+        "dimension": 45.37953795379538,
+        "children": [
+          {
+            "id": "ab2fc1c402aac904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economia/Renda Variável/Fórmula de Graham.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b3bf34527233895",
+        "type": "tabs",
+        "dimension": 54.62046204620462,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -161,10 +181,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "cde5901b95b3e102",
   "lastOpenFiles": [
-    "Tecnologia/Testes/Vitest.md",
+    "Economia/Renda Variável/Fórmula de Graham.md",
+    "Economia/Teoria Econômica/Utilidade Marginal.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard.md",
+    "Imagens",
+    "[.md",
+    "Imagens/Pasted image 20240922183219.png",
+    "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham.md",
+    "Imagens/Pasted image 20240922183121.png",
+    "Economia/Renda Variável/Buy and Hold.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises.md",
+    "Economia/Renda Variável/CAGR.md",
+    "Economia/Teoria Econômica/Economistas de verdade",
+    "Economia/Renda Variável/Margem Líquida.md",
+    "Economia/Renda Variável/Dividend Yield.md",
+    "Economia/Renda Variável/Yield On Cost (YOC).md",
+    "Imagens/Pasted image 20240922180654.png",
+    "Economia/Renda Variável/ROE.md",
+    "Economia/Renda Variável/Preço sobre o Valor Patrimonial.md",
+    "Economia/Renda Variável/Preço sobre o Lucro.md",
+    "Economia/Renda Variável/Payout.md",
+    "Economia/Economia Brasileira/Ciclos Econômicos.md",
+    "Sem título.md",
+    "Economia/Economia Brasileira",
     "Tecnologia/Front-end/React/React.js.md",
+    "Tecnologia/Testes/Vitest.md",
     "Tecnologia/Testes/Testes Unitários/🧪 Testes unitários no front-end.md",
     "Tecnologia/Front-end/Next/Next.js.md",
     "Tecnologia/Front-end/Next/SSG.md",
@@ -172,33 +215,13 @@
     "Tecnologia/Blockchain/Blockchain.md",
     "Economia/Teoria Econômica/Mercado.md",
     "Economia/Renda Variável/Renda Variável.md",
-    "Suspense e Lazy.md",
-    "Economia/Finanças pessoais/Finanças pessoais.md",
-    "Produtividade/Técnica de Feynman.md",
-    "Tecnologia/Blockchain/NTF.md",
     "Livros",
-    "Produtividade/Anotações Inteligentes - Lições de (How to Take Smart Notes).md",
     "Produtividade",
-    "Economia/Teoria Econômica/Utilidade Marginal.md",
-    "Economia/Teoria Econômica/Murray Rothbard.md",
-    "Economia/Teoria Econômica/Ludwing Von Mises.md",
-    "Economia/Teoria Econômica/Escola Austríaca.md",
-    "Economia/Teoria Econômica/Economistas na escola austríaca.md",
-    "Economia/Renda Fixa/Renda Fixa.md",
-    "Economia/Fundos Imobiliários/Indicadores.md",
-    "Economia/ETF/ETF.md",
-    "Economia/BDR/BDR.md",
-    "Economia/Ações/Ações.md",
     "Renda Variável.pdf",
     "Tecnologia/Testes/Testes E2E",
     "Tecnologia/Testes/Testes de Integração",
     "Tecnologia/Testes/Testes Unitários",
-    "Tecnologia/Front-end/React/Debounce/Debounce.md",
-    "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
     "Economia/Teoria Econômica",
-    "Tecnologia/Linguagem de programação/JavaScript",
-    "Tecnologia/Linguagem de programação/TypeScript",
-    "Tecnologia/Linguagem de programação",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Sem título.canvas",
