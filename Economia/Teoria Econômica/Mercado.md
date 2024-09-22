@@ -1,6 +1,6 @@
 ---
 tags:
-  - economia
+  - Economia
 ---
 Para **[Murray Rothbard](Murray%20Rothbard.md)** e **[Ludwing Von Mises](Ludwing%20Von%20Mises.md)**, ambos proeminentes economistas da [Escola Austríaca](Escola%20Austríaca.md), o mercado é um mecanismo central e indispensável para a coordenação das ações humanas em uma sociedade.
 

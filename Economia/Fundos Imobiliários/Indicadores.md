@@ -1,7 +1,8 @@
 ---
 tags:
-  - economia
   - FII
+  - Economia
+  - Renda_Variável
 ---
 # IFIX
 

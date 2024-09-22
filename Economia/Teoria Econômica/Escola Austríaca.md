@@ -1,6 +1,8 @@
 ---
 tags:
-  - economia
+  - Economia
+  - Filosofia
+  - Sociologia
 ---
 A **Escola Austríaca** é uma corrente de pensamento econômico que surgiu no final do século XIX e início do século XX, com foco em uma abordagem **individualista** e **subjetivista** da economia. Seus princípios centrais giram em torno da defesa do **[Mercado](Mercado.md) livre**, da **propriedade privada**, e da rejeição à intervenção governamental na economia. A escola é conhecida por suas críticas à economia planejada e ao socialismo, defendendo que o mercado é um processo espontâneo de cooperação que gera a melhor alocação de recursos.
 

@@ -1,4 +1,5 @@
 ---
 tags:
-  - economia
+  - Economia
+  - Renda_Fixa
 ---

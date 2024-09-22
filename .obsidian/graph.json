@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -41,6 +41,48 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "Livros",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Imigração",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Ações",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "Renda Variável",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "Renda Fixa",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Filosofia",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
@@ -49,7 +91,7 @@
   "nodeSizeMultiplier": 0.967708333333333,
   "lineSizeMultiplier": 2.52447916666667,
   "collapse-forces": true,
-  "centerStrength": 0.388020833333333,
+  "centerStrength": 0.377604166666667,
   "repelStrength": 10,
   "linkStrength": 0.856770833333333,
   "linkDistance": 266,

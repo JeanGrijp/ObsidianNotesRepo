@@ -6,15 +6,18 @@
       {
         "id": "aef597eb0bed92f7",
         "type": "tabs",
+        "dimension": 51.88008130081301,
         "children": [
           {
-            "id": "6384efd74383b72c",
+            "id": "ae351d76e960c24a",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "Economia/Finanças pessoais/Finanças pessoais.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -35,21 +38,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Renda Variável/Renda Variável.md",
+                "file": "Economia/Teoria Econômica/Utilidade Marginal.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0ca75ca2d770c93f",
+        "type": "tabs",
+        "dimension": 48.11991869918699,
+        "children": [
           {
-            "id": "82f4789076f3e408",
+            "id": "6384efd74383b72c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -81,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#economia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economia/Teoria Econômica/Utilidade Marginal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economia/Teoria Econômica/Utilidade Marginal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economia/Teoria Econômica/Utilidade Marginal.md"
+              }
             }
           },
           {
@@ -196,12 +210,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "cd57166fa6f2b35f",
   "lastOpenFiles": [
-    "Economia/Renda Variável/Renda Variável.md",
-    "Renda Variável.pdf",
+    "Economia/Teoria Econômica/Murray Rothbard.md",
     "Economia/Teoria Econômica/Mercado.md",
     "Economia/Teoria Econômica/Ludwing Von Mises.md",
+    "Economia/Teoria Econômica/Escola Austríaca.md",
+    "Economia/Teoria Econômica/Economistas na escola austríaca.md",
+    "Economia/Teoria Econômica/Utilidade Marginal.md",
+    "Economia/Renda Fixa/Renda Fixa.md",
+    "Economia/Fundos Imobiliários/Indicadores.md",
+    "Economia/Renda Variável/Renda Variável.md",
+    "Economia/Finanças pessoais/Finanças pessoais.md",
+    "Economia/ETF/ETF.md",
+    "Economia/BDR/BDR.md",
+    "Economia/Ações/Ações.md",
+    "Anotações Inteligentes - Lições de (How to Take Smart Notes).md",
+    "Renda Variável.pdf",
     "Tecnologia/Testes/Vitest.md",
     "Tecnologia/Testes/Testes E2E",
     "Tecnologia/Testes/Testes de Integração",
@@ -210,7 +235,6 @@
     "Tecnologia/Front-end/React/Debounce/Debounce.md",
     "Tecnologia/Front-end/React/React.js.md",
     "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
-    "Economia/Teoria Econômica/Utilidade Marginal.md",
     "Economia/Teoria Econômica",
     "Tecnologia/Front-end/Next/CSR.md",
     "Tecnologia/Front-end/Next/SSG.md",
@@ -219,22 +243,13 @@
     "Tecnologia/Banck-end/Back-end.md",
     "Tecnologia/Testes/Testes Unitários/Testes unitários no front-end.md",
     "Tecnologia/Front-end/React/Ciclo de vida.md",
-    "Tecnologia/Front-end/Next/Routes no Next.js.md",
-    "Tecnologia/Linguagem de programação/JavaScript/JavaScript.md",
-    "Tecnologia/Linguagem de programação/Sem título.md",
-    "Tecnologia/Linguagem de programação/Sem título 1.md",
     "Tecnologia/Linguagem de programação/JavaScript",
-    "Tecnologia/Linguagem de programação/TypeScript/TypeScript.md",
     "Tecnologia/Linguagem de programação/TypeScript",
     "Tecnologia/Linguagem de programação",
-    "Tecnologia/Banck-end/Node/Nest/Nest.js.md",
     "Tecnologia/Banck-end/Node/Nest",
     "Tecnologia/Front-end/Next",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
-    "Economia/Fundos Imobiliários/Indicadores.md",
-    "Economia/Renda Fixa/Renda Fixa.md",
-    "ETFs.md",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Sem título 2.canvas"

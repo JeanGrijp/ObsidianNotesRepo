@@ -1,4 +1,6 @@
 ---
 tags:
-  - economia
+  - Renda_Variável
+  - Ações
+  - Economia
 ---

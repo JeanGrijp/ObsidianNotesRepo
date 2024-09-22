@@ -1,6 +1,7 @@
 ---
 tags:
-  - economia
+  - Economia
+  - Renda_Variável
 ---
 Os **investimentos em renda variável** são aqueles em que os retornos não são previsíveis ou garantidos, podendo variar de acordo com as condições de [Mercado](Mercado.md). Eles oferecem potencial para maiores ganhos, mas também vêm acompanhados de maior risco. Tanto no Brasil quanto nos Estados Unidos, existem diversos tipos de investimentos em renda variável que são comumente utilizados pelos investidores. A seguir, detalho os mais comuns em cada país:
 

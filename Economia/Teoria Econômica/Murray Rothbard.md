@@ -1,5 +1,7 @@
 ---
 tags:
-  - economia
+  - Economia
+  - Filosofia
+  - Sociologia
 aliases:
 ---

@@ -1,6 +1,8 @@
 ---
 tags:
-  - economia
+  - Economia
+  - Filosofia
+  - Sociologia
 ---
 Além de **[Ludwing Von Mises](Ludwing%20Von%20Mises.md)** e **[Murray Rothbard](Murray%20Rothbard.md)**, vários outros economistas fazem parte da **[Escola Austríaca](Escola%20Austríaca.md)** e compartilham ideias próximas às deles. A Escola Austríaca tem uma longa tradição, e muitos de seus pensadores contribuíram significativamente para o desenvolvimento das ideias de mercado livre, utilidade marginal, e crítica ao intervencionismo estatal. Alguns dos economistas mais proeminentes são:
 
