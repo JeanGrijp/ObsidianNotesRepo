@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "101e360a812471ff",
-        "type": "tabs",
-        "dimension": 59.35569285083848,
-        "children": [
-          {
-            "id": "37c6f63fbca36598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economia/Teoria Econômica/Mercado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "aef597eb0bed92f7",
         "type": "tabs",
-        "dimension": 40.64430714916152,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -35,6 +15,41 @@
               "type": "graph",
               "state": {},
               "pinned": true
+            }
+          },
+          {
+            "id": "0af30b14183522a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economia/Renda Variável/Renda Variável.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd57166fa6f2b35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economia/Renda Variável/Renda Variável.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82f4789076f3e408",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -103,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Teoria Econômica/Mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Teoria Econômica/Mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economia/Teoria Econômica/Mercado.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37c6f63fbca36598",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
-    "Economia/Teoria Econômica/Mercado.md",
     "Economia/Renda Variável/Renda Variável.md",
     "Renda Variável.pdf",
+    "Economia/Teoria Econômica/Mercado.md",
     "Economia/Teoria Econômica/Ludwing Von Mises.md",
     "Tecnologia/Testes/Vitest.md",
     "Tecnologia/Testes/Testes E2E",
