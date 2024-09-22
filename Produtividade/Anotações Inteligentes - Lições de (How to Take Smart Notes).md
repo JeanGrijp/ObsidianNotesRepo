@@ -1,6 +1,13 @@
+---
+tags:
+  - Leitura
+  - Aprendizagem
+  - Produtividade
+  - Livros
+---
 No mundo de hoje, encontrar maneiras de aproveitar ao máximo seu tempo e recursos é fundamental para o sucesso. Uma abordagem que pode transformar sua vida, tornando você mais produtivo, original e capaz de criar conteúdo de qualidade é abordada no livro “How to Take Smart Notes”.
 
-##   A Arte de Pensar e Escrever
+## A Arte de Pensar e Escrever
 
 A escrita não é apenas uma maneira de expressar ideias, mas também uma ferramenta poderosa para o pensamento. A abordagem convencional de pensamento primeiro e em seguida escrevendo é desafiada por Ahrens, que argumenta que escrever é uma forma eficaz de pensar. Em vez de apenas copiar informações, o autor nos incentiva a interagir com o conteúdo, escrevendo sobre ele em nossas próprias palavras e destilando-o em nossos próprios pensamentos. Isso leva a uma maior compreensão e retenção das informações.
 
@@ -16,7 +23,7 @@ Esse sistema, embora possa ser físico (como usar cartões) ou digital (com prog
 
 ## Obsidian
 
-O Zettelkasten pode ser implementado com sucesso usando o aplicativo Obsidian, um software de anotações e gerenciamento de conhecimento que é especialmente adequado para esse método. Ele oferece uma maneira eficaz de criar, organizar e interconectar suas notas seguindo os princípios fundamentais desse sistema. Veja mais em: [Organizando tarefas e projetos: Como obsidian pode otimizar a gestão pessoal](https://medium.com/@gabrielfernandeslemos/organizando-tarefas-e-projetos-como-obsidian-pode-otimizar-a-gest%C3%A3o-pessoal-c7da1417e96f)
+O Zettelkasten pode ser implementado com sucesso usando o aplicativo Obsidian, um software de anotações e gerenciamento de conhecimento que é especialmente adequado para esse método. Ele oferece uma maneira eficaz de criar, organizar e interconectar suas notas seguindo os princípios fundamentais desse sistema.
 
 ## Uma Abordagem Emergente
 
@@ -38,9 +45,3 @@ A implementação desse sistema tem um impacto profundo na maneira como você l�
 2. **Desenvolvimento de insights**: A prática de conectar notas leva à geração de insights originais e à síntese de ideias de diferentes fontes.
 3. **Aumento da produtividade**: Trabalhar em várias linhas de pensamento de forma emergente pode levar a uma produção significativamente maior de conteúdo e ideias originais.
 4. **Impacto financeiro**: Muitas pessoas que implementam esse sistema relatam um impacto positivo em suas carreiras, com a capacidade de fornecer insights valiosos e, consequentemente, receber remuneração mais alta em projetos de consultoria.
-
-## Conclusão
-
-O sistema apresentado no livro “How to Take Smart Notes” o capacita a pensar de maneira mais profunda e gerar conteúdo original e aproveitar ao máximo seu tempo e recursos.
-
-_Fique ligado na minha jornada seguindo-me no_ [_Medium_](https://medium.com/@gabrielfernandeslemos) _. E se você quer unir forças e conquistar juntos vamos nos conectar no_ [_LinkedIn_](https://www.linkedin.com/in/gabriel-fernandes-lemos/) _!_

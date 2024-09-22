@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Renda Variável/Renda Variável.md",
+                "file": "Produtividade/Técnica de Feynman.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Teoria Econômica/Utilidade Marginal.md",
+                "file": "Produtividade/Técnica de Feynman.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Teoria Econômica/Utilidade Marginal.md",
+                "file": "Produtividade/Técnica de Feynman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Teoria Econômica/Utilidade Marginal.md",
+                "file": "Produtividade/Técnica de Feynman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Teoria Econômica/Utilidade Marginal.md"
+                "file": "Produtividade/Técnica de Feynman.md"
               }
             }
           },
@@ -210,22 +210,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd57166fa6f2b35f",
+  "active": "cde5901b95b3e102",
   "lastOpenFiles": [
+    "Livros",
+    "Produtividade/Anotações Inteligentes - Lições de (How to Take Smart Notes).md",
+    "Produtividade/Técnica de Feynman.md",
+    "Produtividade",
+    "Economia/Renda Variável/Renda Variável.md",
+    "Economia/Teoria Econômica/Utilidade Marginal.md",
     "Economia/Teoria Econômica/Murray Rothbard.md",
     "Economia/Teoria Econômica/Mercado.md",
     "Economia/Teoria Econômica/Ludwing Von Mises.md",
     "Economia/Teoria Econômica/Escola Austríaca.md",
     "Economia/Teoria Econômica/Economistas na escola austríaca.md",
-    "Economia/Teoria Econômica/Utilidade Marginal.md",
     "Economia/Renda Fixa/Renda Fixa.md",
     "Economia/Fundos Imobiliários/Indicadores.md",
-    "Economia/Renda Variável/Renda Variável.md",
     "Economia/Finanças pessoais/Finanças pessoais.md",
     "Economia/ETF/ETF.md",
     "Economia/BDR/BDR.md",
     "Economia/Ações/Ações.md",
-    "Anotações Inteligentes - Lições de (How to Take Smart Notes).md",
     "Renda Variável.pdf",
     "Tecnologia/Testes/Vitest.md",
     "Tecnologia/Testes/Testes E2E",
@@ -241,13 +244,10 @@
     "Tecnologia/Front-end/Next/SSR.md",
     "Routes.md",
     "Tecnologia/Banck-end/Back-end.md",
-    "Tecnologia/Testes/Testes Unitários/Testes unitários no front-end.md",
-    "Tecnologia/Front-end/React/Ciclo de vida.md",
     "Tecnologia/Linguagem de programação/JavaScript",
     "Tecnologia/Linguagem de programação/TypeScript",
     "Tecnologia/Linguagem de programação",
     "Tecnologia/Banck-end/Node/Nest",
-    "Tecnologia/Front-end/Next",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Sem título.canvas",

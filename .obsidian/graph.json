@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Tecnologia",
@@ -46,7 +46,7 @@
       "query": "Livros",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 11483391
       }
     },
     {
@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "Produtividade",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 0.856770833333333,
   "linkDistance": 266,
-  "scale": 0.5087618855792606,
+  "scale": 0.3628873693012139,
   "close": true
 }
