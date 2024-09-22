@@ -4,53 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "aef597eb0bed92f7",
+        "id": "0044c67367290bff",
         "type": "tabs",
-        "dimension": 51.88008130081301,
-        "children": [
-          {
-            "id": "ae351d76e960c24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economia/Finanças pessoais/Finanças pessoais.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0af30b14183522a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Produtividade/Técnica de Feynman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd57166fa6f2b35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Produtividade/Técnica de Feynman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0ca75ca2d770c93f",
-        "type": "tabs",
-        "dimension": 48.11991869918699,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -91,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tecnologia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Produtividade/Técnica de Feynman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Produtividade/Técnica de Feynman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Produtividade/Técnica de Feynman.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,44 +161,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cde5901b95b3e102",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Tecnologia/Testes/Vitest.md",
+    "Tecnologia/Front-end/React/React.js.md",
+    "Tecnologia/Testes/Testes Unitários/🧪 Testes unitários no front-end.md",
+    "Tecnologia/Front-end/Next/Next.js.md",
+    "Tecnologia/Front-end/Next/SSG.md",
+    "Tecnologia/Blockchain/Bitcoin.md",
+    "Tecnologia/Blockchain/Blockchain.md",
+    "Economia/Teoria Econômica/Mercado.md",
+    "Economia/Renda Variável/Renda Variável.md",
+    "Suspense e Lazy.md",
+    "Economia/Finanças pessoais/Finanças pessoais.md",
+    "Produtividade/Técnica de Feynman.md",
+    "Tecnologia/Blockchain/NTF.md",
     "Livros",
     "Produtividade/Anotações Inteligentes - Lições de (How to Take Smart Notes).md",
-    "Produtividade/Técnica de Feynman.md",
     "Produtividade",
-    "Economia/Renda Variável/Renda Variável.md",
     "Economia/Teoria Econômica/Utilidade Marginal.md",
     "Economia/Teoria Econômica/Murray Rothbard.md",
-    "Economia/Teoria Econômica/Mercado.md",
     "Economia/Teoria Econômica/Ludwing Von Mises.md",
     "Economia/Teoria Econômica/Escola Austríaca.md",
     "Economia/Teoria Econômica/Economistas na escola austríaca.md",
     "Economia/Renda Fixa/Renda Fixa.md",
     "Economia/Fundos Imobiliários/Indicadores.md",
-    "Economia/Finanças pessoais/Finanças pessoais.md",
     "Economia/ETF/ETF.md",
     "Economia/BDR/BDR.md",
     "Economia/Ações/Ações.md",
     "Renda Variável.pdf",
-    "Tecnologia/Testes/Vitest.md",
     "Tecnologia/Testes/Testes E2E",
     "Tecnologia/Testes/Testes de Integração",
     "Tecnologia/Testes/Testes Unitários",
-    "Tecnologia/Front-end/Next/Next.js.md",
     "Tecnologia/Front-end/React/Debounce/Debounce.md",
-    "Tecnologia/Front-end/React/React.js.md",
     "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
     "Economia/Teoria Econômica",
-    "Tecnologia/Front-end/Next/CSR.md",
-    "Tecnologia/Front-end/Next/SSG.md",
-    "Tecnologia/Front-end/Next/SSR.md",
-    "Routes.md",
-    "Tecnologia/Banck-end/Back-end.md",
     "Tecnologia/Linguagem de programação/JavaScript",
     "Tecnologia/Linguagem de programação/TypeScript",
     "Tecnologia/Linguagem de programação",
-    "Tecnologia/Banck-end/Node/Nest",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Sem título.canvas",
