@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Tecnologia",
@@ -97,11 +97,11 @@
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.967708333333333,
   "lineSizeMultiplier": 2.52447916666667,
-  "collapse-forces": true,
-  "centerStrength": 0.377604166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.455729166666667,
   "repelStrength": 10,
   "linkStrength": 0.856770833333333,
   "linkDistance": 266,
-  "scale": 0.508761885579262,
+  "scale": 0.36288736930121485,
   "close": true
 }

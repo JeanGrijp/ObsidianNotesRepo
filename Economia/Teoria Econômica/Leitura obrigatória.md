@@ -1,0 +1,42 @@
+---
+tags:
+  - Economia
+  - Aprendizagem
+  - Leitura
+  - Sociologia
+  - Filosofia
+---
+- [ ] [Ludwing Von Mises](Ludwing%20Von%20Mises.md)
+	- [x] As Seis Lições.
+	- [ ] A mentalidade anticapitalista.
+	- [ ] Marxismo Desmascarado.
+	- [ ] Ação Humana: um tratado de economia.
+	- [ ] O Livre Mercado e Seus Inimigos.
+	- [ ] Sobre Dinheiro e Inflação.
+- [ ] [Murray Rothbard](Murray%20Rothbard.md)
+	- [ ] Homem, Economia e Estado.
+	- [ ] A ética da liberdade.
+	- [ ] Anatomia do Estado.
+	- [ ] O que o governo fez com o nosso dinheiro?
+	- [ ] Governo e mercado: A economia da intervenção estatal.
+	- [ ] A grande depressão americana.
+	- [ ] Educação: livre e obrigatória.
+	- [ ] Esquerda e Direita: Perspectivas para a Liberdade.
+	- [ ] O manifesto libertário: Por uma nova liberdade.
+- [ ] Jesus Huerta de Soto
+	- [ ] Socialismo, cálculo econômico e função empresarial.
+	- [ ] Moeda, Crédito Bancário e Ciclos Econômicos.
+	- [ ] A escola austríaca.
+- [ ] Fernando Ulrich
+	- [ ] Bitcoin: A moeda na era digital.
+- [ ] Milton Friedman
+	- [ ] Capitalismo e liberdade.
+	- [ ] Livre para escolher: Um depoimento pessoal.
+- [ ] Friedrich Hayek
+	- [ ] Desestatização do dinheiro: Uma análise da teoria e prática das moedas simultâneas.
+	- [ ] O caminho da servidão.
+	- [ ] Economia e conhecimento.
+- [ ] Carl Menger
+- [ ] Hans-Hermann Hoppe
+- [ ] Benjamin Graham
+	- [ ] O investidor inteligente.

@@ -4,9 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "0044c67367290bff",
+        "id": "28fe75e4d3c578da",
         "type": "tabs",
-        "dimension": 45.37953795379538,
+        "dimension": 33.638211382113816,
         "children": [
           {
             "id": "ab2fc1c402aac904",
@@ -14,8 +14,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Renda Variável/Fórmula de Graham.md",
+                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b9a969c2d9cf746b",
+        "type": "tabs",
+        "dimension": 25.914634146341463,
+        "children": [
+          {
+            "id": "f1df36135ab7eb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economia/Teoria Econômica/Leitura obrigatória.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +44,7 @@
       {
         "id": "0b3bf34527233895",
         "type": "tabs",
-        "dimension": 54.62046204620462,
+        "dimension": 40.447154471544714,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -103,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md"
+              }
             }
           },
           {
@@ -181,22 +204,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cde5901b95b3e102",
+  "active": "ab2fc1c402aac904",
   "lastOpenFiles": [
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Utilidade Marginal.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Inflação.md",
+    "Pasted image 20240922225147.png",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Intercambialidade de bens.md",
+    "Utilidade Marginal.pdf",
+    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Ludwing Von Mises.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises",
+    "Economia/Renda Variável/Dividend Yield.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard",
+    "Economia/Teoria Econômica/Economistas na escola austríaca.md",
+    "Economia/Teoria Econômica/Leitura obrigatória.md",
+    "Economia/Teoria Econômica/Escola Austríaca.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
+    "Economia/Termos/Penny Stock.md",
+    "Economia/Renda Variável/Margem Líquida.md",
+    "Tecnologia/Sem título.canvas",
     "Economia/Renda Variável/Fórmula de Graham.md",
-    "Economia/Teoria Econômica/Utilidade Marginal.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard.md",
     "Imagens",
     "[.md",
     "Imagens/Pasted image 20240922183219.png",
-    "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham.md",
     "Imagens/Pasted image 20240922183121.png",
     "Economia/Renda Variável/Buy and Hold.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises.md",
     "Economia/Renda Variável/CAGR.md",
     "Economia/Teoria Econômica/Economistas de verdade",
-    "Economia/Renda Variável/Margem Líquida.md",
-    "Economia/Renda Variável/Dividend Yield.md",
     "Economia/Renda Variável/Yield On Cost (YOC).md",
     "Imagens/Pasted image 20240922180654.png",
     "Economia/Renda Variável/ROE.md",
@@ -208,20 +243,10 @@
     "Economia/Economia Brasileira",
     "Tecnologia/Front-end/React/React.js.md",
     "Tecnologia/Testes/Vitest.md",
-    "Tecnologia/Testes/Testes Unitários/🧪 Testes unitários no front-end.md",
-    "Tecnologia/Front-end/Next/Next.js.md",
-    "Tecnologia/Front-end/Next/SSG.md",
-    "Tecnologia/Blockchain/Bitcoin.md",
-    "Tecnologia/Blockchain/Blockchain.md",
-    "Economia/Teoria Econômica/Mercado.md",
-    "Economia/Renda Variável/Renda Variável.md",
     "Livros",
     "Produtividade",
     "Renda Variável.pdf",
     "Tecnologia/Testes/Testes E2E",
-    "Tecnologia/Testes/Testes de Integração",
-    "Tecnologia/Testes/Testes Unitários",
-    "Economia/Teoria Econômica",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Sem título.canvas",
