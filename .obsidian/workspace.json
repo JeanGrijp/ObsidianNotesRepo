@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 315.5
   },
   "right": {
     "id": "61a7ada2590ac482",
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,11 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab2fc1c402aac904",
+  "active": "53f7637c5f86cd48",
   "lastOpenFiles": [
-    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Utilidade Marginal.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
+    "Economia/Renda Fixa/SELIC.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Banco Central.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Sistema Financeiro Nacional.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Inflação.md",
+    "Economia/Economia Brasileira/Órgãos Financeiros Nacional",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional",
+    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Utilidade Marginal.md",
     "Pasted image 20240922225147.png",
     "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Intercambialidade de bens.md",
     "Utilidade Marginal.pdf",
@@ -238,15 +240,9 @@
     "Economia/Renda Variável/Preço sobre o Valor Patrimonial.md",
     "Economia/Renda Variável/Preço sobre o Lucro.md",
     "Economia/Renda Variável/Payout.md",
-    "Economia/Economia Brasileira/Ciclos Econômicos.md",
-    "Sem título.md",
     "Economia/Economia Brasileira",
-    "Tecnologia/Front-end/React/React.js.md",
-    "Tecnologia/Testes/Vitest.md",
     "Livros",
     "Produtividade",
-    "Renda Variável.pdf",
-    "Tecnologia/Testes/Testes E2E",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Sem título.canvas",
