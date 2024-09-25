@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"20837e13d5adb503","x":-200,"y":170,"width":100,"height":50,"type":"text","text":"AWS"},
-		{"id":"fee20023e76b6157","x":-60,"y":60,"width":100,"height":60,"type":"text","text":"CDN"}
-	],
-	"edges":[
-		{"id":"83fd859b69197408","fromNode":"fee20023e76b6157","fromSide":"left","toNode":"20837e13d5adb503","toSide":"top"}
-	]
-}

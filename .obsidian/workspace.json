@@ -4,28 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "28fe75e4d3c578da",
-        "type": "tabs",
-        "dimension": 33.638211382113816,
-        "children": [
-          {
-            "id": "ab2fc1c402aac904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b9a969c2d9cf746b",
         "type": "tabs",
-        "dimension": 25.914634146341463,
+        "dimension": 59.46372239747634,
         "children": [
           {
             "id": "f1df36135ab7eb45",
@@ -33,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Teoria Econômica/Leitura obrigatória.md",
+                "file": "Tecnologia/Testes/Testes de Integração/Testes de request.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +25,7 @@
       {
         "id": "0b3bf34527233895",
         "type": "tabs",
-        "dimension": 40.447154471544714,
+        "dimension": 40.536277602523654,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -122,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
+                "file": "Tecnologia/Testes/Testes de Integração/Testes de request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
+                "file": "Tecnologia/Testes/Testes de Integração/Testes de request.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md"
+                "file": "Tecnologia/Testes/Testes de Integração/Testes de request.md"
               }
             }
           },
@@ -183,6 +164,18 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "0c601f2168b7a893",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -201,19 +194,33 @@
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Gerenciar leiautes da área de trabalho": false,
       "zk-prefixer:Criar nova nota única": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "publish:Publicar mudanças": false
     }
   },
-  "active": "53f7637c5f86cd48",
+  "active": "f1df36135ab7eb45",
   "lastOpenFiles": [
+    "Tecnologia/Testes/Testes no front-end/User Events.md",
+    "Tecnologia/Testes/Testes de Integração/Testes de request.md",
+    "Tecnologia/Testes/Testes no front-end/Acessibilidade nos testes.md",
+    "Tecnologia/Testes/Testes no front-end/Queries.md",
+    "Tecnologia/ReGex.md",
+    "Tecnologia/Testes/Testes de Integração/Testes de integração.md",
+    "Tecnologia/Testes/Testes Unitários/🧪 Testes unitários no front-end.md",
+    "Tecnologia/Testes/Testes no front-end/Vitest.md",
+    "Tecnologia/Front-end/Acessibilidade/ARIA.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
+    "Tecnologia/Front-end/Acessibilidade",
+    "Tecnologia/Sem título.canvas",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
+    "Tecnologia/Testes/Testes no front-end",
     "Economia/Renda Fixa/SELIC.md",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional/Banco Central.md",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional/Sistema Financeiro Nacional.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Inflação.md",
     "Economia/Economia Brasileira/Órgãos Financeiros Nacional",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
     "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Utilidade Marginal.md",
     "Pasted image 20240922225147.png",
     "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Intercambialidade de bens.md",
@@ -229,24 +236,12 @@
     "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
     "Economia/Termos/Penny Stock.md",
     "Economia/Renda Variável/Margem Líquida.md",
-    "Tecnologia/Sem título.canvas",
-    "Economia/Renda Variável/Fórmula de Graham.md",
     "Imagens",
-    "[.md",
     "Imagens/Pasted image 20240922183219.png",
     "Imagens/Pasted image 20240922183121.png",
-    "Economia/Renda Variável/Buy and Hold.md",
-    "Economia/Renda Variável/CAGR.md",
     "Economia/Teoria Econômica/Economistas de verdade",
-    "Economia/Renda Variável/Yield On Cost (YOC).md",
     "Imagens/Pasted image 20240922180654.png",
-    "Economia/Renda Variável/ROE.md",
-    "Economia/Renda Variável/Preço sobre o Valor Patrimonial.md",
-    "Economia/Renda Variável/Preço sobre o Lucro.md",
-    "Economia/Renda Variável/Payout.md",
     "Economia/Economia Brasileira",
-    "Livros",
-    "Produtividade",
     "Tecnologia/Front-end/React/Debounce/image.png",
     "Tecnologia/Front-end/React/Debounce/Captura_de_tela_de_2024-09-18_13-11-12.png",
     "Sem título.canvas",
