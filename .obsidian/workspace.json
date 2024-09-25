@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md"
+              }
             }
           },
           {
