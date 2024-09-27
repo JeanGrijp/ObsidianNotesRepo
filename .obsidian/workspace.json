@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Benjamin Graham.md",
+                "file": "Economia/Economia Brasileira/PIB.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Benjamin Graham.md",
+                "file": "Economia/Economia Brasileira/PIB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Benjamin Graham.md",
+                "file": "Economia/Economia Brasileira/PIB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Benjamin Graham.md"
+                "file": "Economia/Economia Brasileira/PIB.md"
               }
             }
           },
@@ -199,46 +199,46 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "cde5901b95b3e102",
+  "active": "25421cd09e5912a2",
   "lastOpenFiles": [
-    "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
+    "Economia/Economia Brasileira/PIB.md",
+    "Curso/AUVP/Mind map/Mapa mental_Aula 02.pdf",
+    "Curso/AUVP/Mind map/Mapa mental_Aula 02.pdf.crdownload",
+    "Tecnologia/Front-end/Next/Routes no Next.js.md",
+    "Tecnologia/Front-end/Next/Next.js.md",
+    "Tecnologia/Front-end/React/React.js.md",
+    "Curso/AUVP/Mind map",
+    "Curso/AUVP/Nova pasta",
+    "Curso/AUVP/Módulo 01.pdf",
+    "Curso",
+    "Curso/AUVP",
+    "Geração de riqueza.pdf",
+    "Tecnologia/Blockchain/Criptomoedas/Bitcoin.md",
+    "Economia/Termos/Alavancagem.md",
+    "Tecnologia/Blockchain/Criptomoedas/Sem título.md",
+    "Tecnologia/Blockchain/Criptomoedas",
+    "Economia/Renda Variável/Ações/Ações em Tesouraria.md",
+    "Economia/Termos/Tag Along.md",
+    "Economia/Renda Variável/Ações/Ações Preferenciais.md",
+    "Economia/Renda Variável/Ações/Ações Ordinárias (ON).md",
+    "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Benjamin Graham.md",
+    "Economia/Renda Variável/Stocks",
     "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Fórmula de Graham.md",
-    "Economia/Fundos Imobiliários/Fiagro.md",
-    "Economia/Fundos Imobiliários/Fundos Imobiliários.md",
+    "Economia/Renda Variável/Fundos Imobiliários/Fiagro.md",
+    "Economia/Renda Variável/Fundos Imobiliários/Fundos Imobiliários.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro pós-fixado.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro pré-fixado.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro SELIC.md",
     "Economia/Termos/Stockpiking.md",
-    "Economia/Renda Fixa/Tesouro Direto",
     "Economia/Renda Variável/S&P 500.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
-    "Geração de riqueza.pdf",
     "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Utilidade Marginal.md",
     "Economia/Renda Variável/Preço sobre EBITDA.md",
     "Economia/Renda Variável/Valor da empresa sobre EBITDA.md",
-    "Economia/Renda Variável/Margem EBITDA.md",
-    "Economia/Renda Variável/Margem EBIT.md",
-    "Economia/Renda Variável/EBITDA.md",
-    "Economia/Renda Variável/Margem Bruta.md",
-    "Economia/Renda Variável/Margem Operacional.md",
-    "Economia/Renda Variável/Preço sobre Receita.md",
-    "Economia/Renda Variável/ROA.md",
-    "Economia/Renda Variável/ROIC.md",
-    "Tecnologia/Testes/Testes de Integração/Testes de request.md",
-    "Tecnologia/Testes/Testes no front-end/User Events.md",
-    "Tecnologia/Testes/Testes no front-end/Acessibilidade nos testes.md",
-    "Tecnologia/Testes/Testes no front-end/Queries.md",
-    "Tecnologia/Front-end/Acessibilidade",
     "Tecnologia/Sem título.canvas",
-    "Tecnologia/Testes/Testes no front-end",
-    "Economia/Economia Brasileira/Órgãos Financeiros Nacional",
-    "Economia/Economia Brasileira/Sistema Financeiro Nacional",
     "Pasted image 20240922225147.png",
-    "Utilidade Marginal.pdf",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises",
-    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard",
-    "Imagens",
     "Imagens/Pasted image 20240922183219.png",
     "Imagens/Pasted image 20240922183121.png",
     "Imagens/Pasted image 20240922180654.png",

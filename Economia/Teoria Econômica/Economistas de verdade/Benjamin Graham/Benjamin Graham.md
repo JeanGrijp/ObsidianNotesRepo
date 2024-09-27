@@ -8,7 +8,7 @@ tags:
 ---
 ![](Pasted%20image%2020240922183121.png)
 
-Benhamin Graham é um economista muito conhecido por ser o precursor da estratégia de investimentos chamada [Buy and Hold](Buy%20and%20Hold.md), estratégia adotada por muitos investidores pelo mundo, incluindo o grande Warren Buffet.
+Benjamin Graham é um economista muito conhecido por ser o precursor da estratégia de investimentos chamada [Buy and Hold](Buy%20and%20Hold.md), estratégia adotada por muitos investidores pelo mundo, incluindo o grande Warren Buffet.
 
 Graham é considerado o *"pai do investimento em valor"* e seus dois livros, *Security Analysis* e *The Intelligent Investor*, definiram sua filosofia de investimento, especialmente o que significa ser um investidor de valor. Indiscutivelmente, seu aluno mais famoso foi Warren Buffett, que é consistentemente classificado entre as pessoas mais ricas do mundo. 
 
