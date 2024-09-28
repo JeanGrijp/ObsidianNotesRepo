@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Economia Brasileira/PIB.md",
+                "file": "Economia/Economia Brasileira/DREX.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tecnologia",
+                "query": "tag:#Economia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Economia Brasileira/PIB.md",
+                "file": "Economia/Economia Brasileira/DREX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Economia Brasileira/PIB.md",
+                "file": "Economia/Economia Brasileira/DREX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Economia Brasileira/PIB.md"
+                "file": "Economia/Economia Brasileira/DREX.md"
               }
             }
           },
@@ -201,9 +201,22 @@
   },
   "active": "25421cd09e5912a2",
   "lastOpenFiles": [
-    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
-    "Economia/Economia Brasileira/PIB.md",
+    "Tecnologia/Blockchain/Contratos Inteligentes.md",
+    "Economia/Economia Brasileira/DREX.md",
+    "Tecnologia/Blockchain/NFT.md",
+    "Economia/Renda Variável/EBITDA.md",
+    "Economia/Renda Variável/Dividend Yield.md",
+    "Economia/Renda Variável/CAGR.md",
+    "Economia/Renda Variável/Buy and Hold.md",
+    "Economia/Renda Variável/Margem EBIT.md",
+    "Economia/Renda Variável/Margem Bruta.md",
     "Curso/AUVP/Mind map/Mapa mental_Aula 02.pdf",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Sistema Financeiro Nacional.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/COPOM.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Banco Central.md",
+    "Economia/Economia Brasileira/Ciclos Econômicos.md",
+    "Economia/Economia Brasileira/PIB.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
     "Curso/AUVP/Mind map/Mapa mental_Aula 02.pdf.crdownload",
     "Tecnologia/Front-end/Next/Routes no Next.js.md",
     "Tecnologia/Front-end/Next/Next.js.md",
@@ -224,19 +237,6 @@
     "Economia/Renda Variável/Ações/Ações Ordinárias (ON).md",
     "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Benjamin Graham.md",
     "Economia/Renda Variável/Stocks",
-    "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Fórmula de Graham.md",
-    "Economia/Renda Variável/Fundos Imobiliários/Fiagro.md",
-    "Economia/Renda Variável/Fundos Imobiliários/Fundos Imobiliários.md",
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA.md",
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro pós-fixado.md",
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro pré-fixado.md",
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro SELIC.md",
-    "Economia/Termos/Stockpiking.md",
-    "Economia/Renda Variável/S&P 500.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Utilidade Marginal.md",
-    "Economia/Renda Variável/Preço sobre EBITDA.md",
-    "Economia/Renda Variável/Valor da empresa sobre EBITDA.md",
     "Tecnologia/Sem título.canvas",
     "Pasted image 20240922225147.png",
     "Imagens/Pasted image 20240922183219.png",

@@ -11,4 +11,4 @@ Imagine que você está querendo comprar uma casa, você tem [Bitcoin](Bitcoin.m
 ###### Aplicações
 As aplicações possíveis na Blockchain não se resumem apenas a operações financeiras, é possível incluir inúmeras aplicações digitais na rede, como por exemplo os registros realizados em cartórios. Se a essência dos cartórios é garantir a fidelidade de um registro, garantir que as informações em um documento não foram adulteradas e sua origem é válida, então a existência dos cartórios entra em conflito direto com a utilidade da Blockchain, uma vez que a Blockchain descentraliza as validações e torna público todos os registros na rede. É como se a Blockchain transformasse os cartórios existentes hoje, em um grande cartório público sem burocracias e funcionários mal humorados.
 
-Uma outra aplicação utilizando a Blockchain que ficou famosa e logo em seguida caiu em esquecimento, foram os [NTF](NTF.md) 
+Uma outra aplicação utilizando a Blockchain que ficou famosa e logo em seguida caiu em esquecimento, foram os [NFT](NFT.md) 

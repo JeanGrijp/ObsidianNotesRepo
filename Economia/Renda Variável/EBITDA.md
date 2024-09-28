@@ -2,6 +2,7 @@
 tags:
   - Economia
   - Renda_Variável
+  - Ações
 ---
 No mercado financeiro, **EBITDA** é a sigla em inglês para _Earnings Before Interest, Taxes, Depreciation, and Amortization_, que em português significa **Lucros Antes de Juros, Impostos, Depreciação e Amortização**. Este indicador financeiro mede o desempenho operacional de uma empresa, excluindo os efeitos de decisões financeiras (como juros e impostos) e despesas não monetárias (como depreciação e amortização).
 
