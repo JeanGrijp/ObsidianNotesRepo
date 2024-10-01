@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/AUVP/Módulo 01/Apostila.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/AUVP/Módulo 01/Apostila.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curso/AUVP/Módulo 01/Apostila.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -197,20 +193,19 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "cde5901b95b3e102",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Curso/AUVP/Módulo 01/Apostila.pdf",
+    "Sem título.md",
     "Curso/AUVP/Módulo 08",
     "Curso/AUVP/Módulo 07",
     "Curso/AUVP/Módulo 06",
     "Curso/AUVP/Módulo 05",
     "Curso/AUVP/Módulo 04",
     "Curso/AUVP/Módulo 03",
-    "Sem título.md",
-    "Curso/AUVP/Módulo 01/Apostila.pdf",
     "Curso/AUVP/Módulo 02",
     "Curso/AUVP/Módulo 01",
     "Curso/AUVP/Módulo 01/Mind map/Mapa mental-Aula 04.pdf",
-    "Curso/AUVP/Módulo 01/Mind map/Mapa mental_Aula 03.pdf",
     "Inglês/Simple Present.md",
     "Economia/Termos/Alavancagem.md",
     "Economia/Teoria Econômica/Mercado.md",
