@@ -1,3 +1,9 @@
+---
+tags:
+  - Economia
+  - Ações
+  - Renda_Variável
+---
 Uma ação Preferencial é uma espécie de ação que concede ao acionista preferências, na maioria das vezes relacionadas a distribuição de dividendos ou no reembolso de capital, podendo, ainda, possuir prioridades específicas, se admitidas à negociação no mercado pela CVM (Comissão de Valores Mobiliários).
 
 Diferentemente das ações Ordinárias (ON), as ações preferenciais não concedem direito à voto nas deliberações da Assembleia Geral, no entanto, em contrapartida, estão dotadas de algumas vantagens em relação a distribuição de lucros, dentre outras. As preferências sempre deverão constar no Estatuto da companhia, e é papel do investidor conhecer de qual preferência sua ação é dotada.

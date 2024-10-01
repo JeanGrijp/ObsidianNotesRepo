@@ -2,6 +2,7 @@
 tags:
   - Economia
   - Renda_Variável
+  - Ações
 ---
 P/EBITDA = Preço sobre EBITDA.
 
