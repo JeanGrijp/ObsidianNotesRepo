@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d29d0092158f1da5",
+        "id": "0b3bf34527233895",
         "type": "tabs",
-        "dimension": 30.301532377656944,
         "children": [
           {
-            "id": "25421cd09e5912a2",
+            "id": "a659ed597acffcf0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Curso/AUVP/Módulo 01/Apostila.pdf"
+                "file": "Inglês/Simple Present.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ]
       },
       {
-        "id": "0b3bf34527233895",
+        "id": "3e6c23547ed5ef78",
         "type": "tabs",
-        "dimension": 69.69846762234306,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Economia",
+                "query": "tag:Economia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,6 +195,11 @@
   },
   "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Inglês/Simple Present.md",
+    "Inglês/Gramática.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
+    "Economia/Teoria Econômica/Mercado.md",
+    "Economia/Teoria Econômica/Escola Austríaca.md",
     "Curso/AUVP/Módulo 01/Apostila.pdf",
     "Sem título.md",
     "Curso/AUVP/Módulo 08",
@@ -206,11 +211,8 @@
     "Curso/AUVP/Módulo 02",
     "Curso/AUVP/Módulo 01",
     "Curso/AUVP/Módulo 01/Mind map/Mapa mental-Aula 04.pdf",
-    "Inglês/Simple Present.md",
     "Economia/Termos/Alavancagem.md",
-    "Economia/Teoria Econômica/Mercado.md",
     "Economia/Teoria Econômica/Leitura obrigatória.md",
-    "Economia/Teoria Econômica/Escola Austríaca.md",
     "Economia/Teoria Econômica/Economistas na escola austríaca.md",
     "Economia/Renda Variável/Yield On Cost (YOC).md",
     "Economia/Renda Variável/Valor da empresa sobre EBITDA.md",
@@ -229,7 +231,6 @@
     "Economia/Renda Variável/Margem EBITDA.md",
     "Economia/Renda Variável/Margem EBIT.md",
     "Economia/Renda Variável/Margem Bruta.md",
-    "Economia/Renda Variável/Buy and Hold.md",
     "Tecnologia/Sem título.canvas",
     "Pasted image 20240922225147.png",
     "Imagens/Pasted image 20240922183219.png",
