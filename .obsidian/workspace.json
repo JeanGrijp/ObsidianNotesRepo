@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/Simple Present.md",
-                "mode": "preview",
+                "file": "Economia/Renda Variável/S&P 500.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economia/Renda Variável/S&P 500.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economia/Renda Variável/S&P 500.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economia/Renda Variável/S&P 500.md"
+              }
             }
           },
           {
@@ -193,30 +197,8 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "a659ed597acffcf0",
   "lastOpenFiles": [
-    "Inglês/Simple Present.md",
-    "Inglês/Gramática.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
-    "Economia/Teoria Econômica/Mercado.md",
-    "Economia/Teoria Econômica/Escola Austríaca.md",
-    "Curso/AUVP/Módulo 01/Apostila.pdf",
-    "Sem título.md",
-    "Curso/AUVP/Módulo 08",
-    "Curso/AUVP/Módulo 07",
-    "Curso/AUVP/Módulo 06",
-    "Curso/AUVP/Módulo 05",
-    "Curso/AUVP/Módulo 04",
-    "Curso/AUVP/Módulo 03",
-    "Curso/AUVP/Módulo 02",
-    "Curso/AUVP/Módulo 01",
-    "Curso/AUVP/Módulo 01/Mind map/Mapa mental-Aula 04.pdf",
-    "Economia/Termos/Alavancagem.md",
-    "Economia/Teoria Econômica/Leitura obrigatória.md",
-    "Economia/Teoria Econômica/Economistas na escola austríaca.md",
-    "Economia/Renda Variável/Yield On Cost (YOC).md",
-    "Economia/Renda Variável/Valor da empresa sobre EBITDA.md",
-    "Economia/Renda Variável/S&P 500.md",
     "Economia/Renda Variável/ROIC.md",
     "Economia/Renda Variável/ROE.md",
     "Economia/Renda Variável/ROA.md",
@@ -231,6 +213,30 @@
     "Economia/Renda Variável/Margem EBITDA.md",
     "Economia/Renda Variável/Margem EBIT.md",
     "Economia/Renda Variável/Margem Bruta.md",
+    "Economia/Renda Variável/EBITDA.md",
+    "Economia/Renda Variável/Dividend Yield.md",
+    "Economia/Renda Variável/CAGR.md",
+    "Economia/Renda Variável/Buy and Hold.md",
+    "Economia/Renda Variável/Ações/Ações Preferenciais.md",
+    "Economia/Renda Variável/Ações/Ações Ordinárias (ON).md",
+    "Economia/Renda Variável/Ações/Ações em Tesouraria.md",
+    "Economia/Renda Variável/Ações/Ações.md",
+    "Curso/AUVP/Módulo 01/Certificados.pdf",
+    "Curso/AUVP/Módulo 01/certificado-usag75.png",
+    "Curso/AUVP/Módulo 01/certificado-usag75 (1).png",
+    "Curso/AUVP/Módulo 01/certificado-usag75 (1).png.crdownload",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Banco Central.md",
+    "Curso/AUVP/Módulo 01/certificado-usag75.png.crdownload",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Casa da Moeda.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Conselho Monetário Nacional.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Comitê de Política Monetária.md",
+    "Curso/AUVP/Módulo 01/Mind map/Mapa mental- Aula 09.pdf",
+    "Curso/AUVP/Módulo 01/Mind map/Mapa mental- Aula 09.pdf.crdownload",
+    "Curso/AUVP/Módulo 01/Mind map/Mapa mental-Aula 08.pdf",
+    "Curso/AUVP/Módulo 01/Mind map/Mapa mental-Aula 08.pdf.crdownload",
+    "Curso/AUVP/Módulo 01/Mind map/Mapa mental-Aula 07.pdf",
+    "Curso/AUVP/Módulo 01/Mind map/Mapa mental-Aula 07.pdf.crdownload",
+    "Economia/Economia Brasileira/Tripé Macro Econômico",
     "Tecnologia/Sem título.canvas",
     "Pasted image 20240922225147.png",
     "Imagens/Pasted image 20240922183219.png",
