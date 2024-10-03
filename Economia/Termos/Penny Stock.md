@@ -8,4 +8,4 @@ A classificação de uma ação como "Penny Stock" ocorre quando a cotação des
 - Melhoria na performance financeira: A empresa pode buscar melhorar seus resultados operacionais e sua performance financeira, o que pode resultar em um aumento na demanda por suas ações e, consequentemente, em sua valorização.
 - Desenvolvimento de novos projetos: Investir em novos negócios, produtos ou mercados também pode ajudar a aumentar o valor da empresa e o preço de suas ações.
 
-Se uma ação fica por muito tempo cotada abaixo de R$ 1, a bolsa de valores (como a B3) pode exigir que a empresa tome medidas corretivas para evitar sua classificação como Penny Stock, o que pode incluir risco de deslistagem do mercado principal.
+Se uma ação fica por muito tempo cotada abaixo de R$ 1, a bolsa de valores (como a [[B3]]) pode exigir que a empresa tome medidas corretivas para evitar sua classificação como Penny Stock, o que pode incluir risco de deslistagem do mercado principal.
