@@ -69,7 +69,7 @@ A seguir, uma breve descrição de cada lição:
 
 **Conteúdo Principal:**
 
-- **Causas da Inflação**: Mises explica que a [[inflação]] é resultado do aumento da oferta de moeda pelo governo, geralmente para financiar gastos públicos excessivos.
+- **Causas da Inflação**: Mises explica que a [[inflação]] é resultado do aumento da oferta de moeda pelo governo, geralmente para financiar gastos públicos excessivos (expliquei com mais detalhes em outro artigo).
   
 - **Consequências da Inflação**: A inflação distorce os preços relativos, prejudica o poder de compra, e pode levar à desorganização econômica e social.
   
