@@ -21,7 +21,7 @@ Isso está correto, tem uma quantidade finita de areia na caixa e é natural pen
 
 Será mesmo? 
 
-Um certo dia um amigo me apresentou ao livro ***As Seis Lições*** de [Ludwing Von Mises](Ludwing%20Von%20Mises.md)
+Um certo dia um amigo me apresentou ao livro ***As Seis Lições*** de [Ludwig Von Mises](Economia/Teoria%20Econômica/Economistas%20de%20verdade/Ludwing%20Von%20Mises/Ludwig%20Von%20Mises.md)
  e debatemos sobre esse tema. O que Eduardo Moreira falou pareceu fazer sentido para mim e passei anos acreditando, foi difícil pensar diferente, até que me deparei com os seguintes questionamentos.
  
 ###### Se economia é um jogo de soma zero, para que ninguém fique sem dinheiro, não é só imprimir mais dinheiro e distribuir para todo mundo?
@@ -33,11 +33,11 @@ E logo em seguida parei para pensar...
 
 Pela lógica esquerdista de economia ser um jogo de soma zero, sim, estaria pior. Mas felizmente no capitalismo não é assim.
 
-[Ludwing Von Mises](Ludwing%20Von%20Mises.md) diz em seu livro ***As Seis Lições*** o seguinte: 
+[Ludwig Von Mises](Economia/Teoria%20Econômica/Economistas%20de%20verdade/Ludwing%20Von%20Mises/Ludwig%20Von%20Mises.md) diz em seu livro ***As Seis Lições*** o seguinte: 
 
 > Quando alguém acumula certa quantidade de dinheiro – mil dólares, digamos – e confia esses dólares, em vez de gastá-los, a uma empresa de poupança ou a uma companhia de seguros, transfere esse dinheiro para um empresário, um homem de negócios, o que vai permitir que esse empresário possa expandir suas atividades e investir num projeto, que na véspera ainda era inviável, por falta do capital necessário. Que fará então o empresário com o capital recém-obtido? Certamente a primeira coisa que fará, o primeiro uso que dará a esse capital suplementar será a contratação de trabalhadores e a compra de matérias-primas – o que promoverá, por sua vez, o surgimento de uma demanda adicional de trabalhadores e matérias-primas, bem como uma tendência à elevação dos salários e dos preços dessas matérias-primas. Muito antes que o poupador ou o empresário tenham obtido algum lucro em tudo isso, o trabalhador desempregado, o produtor de matérias-primas, o agricultor e o assalariado já estarão participando dos benefícios das poupanças adicionais.
 
-Para [Ludwing Von Mises](Ludwing%20Von%20Mises.md), a riqueza no capitalismo é gerada por meio da interação livre e voluntária ([Utilidade Marginal](Utilidade%20Marginal.md)) de indivíduos que, ao perseguirem seus próprios interesses, contribuem para a eficiência econômica e o progresso material da sociedade. O sistema capitalista, com sua estrutura de preços, propriedade privada e livre iniciativa, permite a alocação eficiente de recursos, incentiva a inovação e promove a prosperidade geral. A **geração de riqueza no capitalismo** refere-se ao processo pelo qual a economia cria valor adicional através da produção, inovação, investimento e troca voluntária. No sistema capitalista, a riqueza não é fixa; pelo contrário, pode ser expandida quando indivíduos e empresas produzem bens e serviços que atendem às necessidades e desejos dos consumidores de forma eficiente.
+Para [Ludwig Von Mises](Economia/Teoria%20Econômica/Economistas%20de%20verdade/Ludwing%20Von%20Mises/Ludwig%20Von%20Mises.md), a riqueza no capitalismo é gerada por meio da interação livre e voluntária ([Utilidade Marginal](Utilidade%20Marginal.md)) de indivíduos que, ao perseguirem seus próprios interesses, contribuem para a eficiência econômica e o progresso material da sociedade. O sistema capitalista, com sua estrutura de preços, propriedade privada e livre iniciativa, permite a alocação eficiente de recursos, incentiva a inovação e promove a prosperidade geral. A **geração de riqueza no capitalismo** refere-se ao processo pelo qual a economia cria valor adicional através da produção, inovação, investimento e troca voluntária. No sistema capitalista, a riqueza não é fixa; pelo contrário, pode ser expandida quando indivíduos e empresas produzem bens e serviços que atendem às necessidades e desejos dos consumidores de forma eficiente.
 
 ###### O Sábio ChatGPT
 

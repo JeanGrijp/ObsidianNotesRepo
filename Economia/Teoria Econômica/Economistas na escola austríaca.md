@@ -4,7 +4,7 @@ tags:
   - Filosofia
   - Sociologia
 ---
-Além de **[Ludwing Von Mises](Ludwing%20Von%20Mises.md)** e **[Murray Rothbard](Murray%20Rothbard.md)**, vários outros economistas fazem parte da **[Escola Austríaca](Escola%20Austríaca.md)** e compartilham ideias próximas às deles. A Escola Austríaca tem uma longa tradição, e muitos de seus pensadores contribuíram significativamente para o desenvolvimento das ideias de mercado livre, utilidade marginal, e crítica ao intervencionismo estatal. Alguns dos economistas mais proeminentes são:
+Além de **[Ludwig Von Mises](Economia/Teoria%20Econômica/Economistas%20de%20verdade/Ludwing%20Von%20Mises/Ludwig%20Von%20Mises.md)** e **[Murray Rothbard](Murray%20Rothbard.md)**, vários outros economistas fazem parte da **[Escola Austríaca](Escola%20Austríaca.md)** e compartilham ideias próximas às deles. A Escola Austríaca tem uma longa tradição, e muitos de seus pensadores contribuíram significativamente para o desenvolvimento das ideias de mercado livre, utilidade marginal, e crítica ao intervencionismo estatal. Alguns dos economistas mais proeminentes são:
 
 ### 1. **Carl Menger** (1840–1921)
 Menger é o **fundador da Escola Austríaca**. Ele desenvolveu a **teoria da utilidade marginal** e a teoria subjetiva do valor, que foram revolucionárias para a economia. Menger argumentava que o valor de um bem não está no trabalho envolvido na sua produção, mas sim na **utilidade que ele oferece aos indivíduos**. Essa teoria influenciou diretamente Mises e Rothbard.

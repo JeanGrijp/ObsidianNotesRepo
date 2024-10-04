@@ -6,7 +6,7 @@ tags:
   - Sociologia
   - Filosofia
 ---
-- [ ] [Ludwing Von Mises](Ludwing%20Von%20Mises.md)
+- [ ] [Ludwig Von Mises](Economia/Teoria%20Econômica/Economistas%20de%20verdade/Ludwing%20Von%20Mises/Ludwig%20Von%20Mises.md)
 	- [x] As Seis Lições.
 	- [ ] A mentalidade anticapitalista.
 	- [ ] Marxismo Desmascarado.

@@ -28,7 +28,7 @@ A **Escola Austríaca** é uma corrente de pensamento econômico que surgiu no f
 
 - **Carl Menger** (fundador da Escola Austríaca)
 - **Eugen von Böhm-Bawerk**
-- **[Ludwing Von Mises](Ludwing%20Von%20Mises.md)**
+- **[Ludwig Von Mises](Economia/Teoria%20Econômica/Economistas%20de%20verdade/Ludwing%20Von%20Mises/Ludwig%20Von%20Mises.md)**
 - **Friedrich Hayek** (vencedor do Prêmio Nobel de Economia em 1974)
 - **[Murray Rothbard](Murray%20Rothbard.md)**
 - **Israel Kirzner**

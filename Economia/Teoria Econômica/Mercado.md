@@ -2,7 +2,7 @@
 tags:
   - Economia
 ---
-Para **[Murray Rothbard](Murray%20Rothbard.md)** e **[Ludwing Von Mises](Ludwing%20Von%20Mises.md)**, ambos proeminentes economistas da [Escola Austríaca](Escola%20Austríaca.md), o mercado é um mecanismo central e indispensável para a coordenação das ações humanas em uma sociedade.
+Para **[Murray Rothbard](Murray%20Rothbard.md)** e **[Ludwig Von Mises](Economia/Teoria%20Econômica/Economistas%20de%20verdade/Ludwing%20Von%20Mises/Ludwig%20Von%20Mises.md)**, ambos proeminentes economistas da [Escola Austríaca](Escola%20Austríaca.md), o mercado é um mecanismo central e indispensável para a coordenação das ações humanas em uma sociedade.
 
 ### Ludwig von Mises:
 Para **Mises**, o [Mercado](Mercado.md) é uma **instituição social espontânea** que surge da interação voluntária entre indivíduos. Ele não é algo criado ou planejado, mas o resultado das escolhas feitas por pessoas que buscam satisfazer suas necessidades por meio de trocas. O mercado, segundo Mises, é um **processo de cooperação social**, onde a oferta e a demanda, determinadas por preferências individuais, estabelecem os preços dos bens e serviços. O sistema de preços em um mercado livre é essencial para a **alocação eficiente dos recursos**, pois reflete as necessidades e desejos dos indivíduos e, assim, permite que os empreendedores ajustem sua produção de acordo com as mudanças nas condições de mercado.
