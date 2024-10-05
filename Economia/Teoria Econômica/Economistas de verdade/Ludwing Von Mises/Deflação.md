@@ -1,3 +1,8 @@
+---
+tags:
+  - Economia
+  - Sociologia
+---
 **Deflação: Conceito e Perspectiva de Ludwig von Mises**
 
 A deflação é um fenômeno econômico caracterizado pela queda contínua e generalizada dos preços de bens e serviços em uma economia ao longo do tempo. Ao contrário da [[inflação]], que representa o aumento dos preços e a consequente perda do poder de compra da moeda, a deflação aumenta o poder aquisitivo do dinheiro, permitindo que os consumidores comprem mais com a mesma quantidade de recursos financeiros. Embora possa parecer benéfica à primeira vista, a deflação pode acarretar sérias implicações negativas para a economia.

@@ -1,3 +1,11 @@
+---
+tags:
+  - Economia
+  - Filosofia
+  - Sociologia
+  - Livros
+  - Leitura
+---
 **"As Seis Lições"** é uma obra baseada em uma série de palestras que o economista austríaco **[[Ludwig von Mises]]** proferiu em Buenos Aires, Argentina, em 1959. Nessa série, Mises aborda temas centrais da economia e da [[filosofia política]], defendendo os princípios do [[liberalismo clássico]] e da economia de [[mercado]]. As seis lições são:
 
 1. **Capitalismo**  
