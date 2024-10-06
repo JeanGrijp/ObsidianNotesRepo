@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Renda Fixa/CRA.md",
+                "file": "Economia/Economia Brasileira/DREX.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Renda Fixa/CRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Renda Fixa/CRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economia/Renda Fixa/CRA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,16 +193,26 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "5bf327fdf16af1e9",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Economia/Economia Brasileira/DREX.md",
+    "Economia/Teoria Econômica/Ciclos Econômicos.md",
+    "Economia/Economia Brasileira/Corretoras.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Atas do Copom.md",
+    "Economia/Renda Fixa/LCI.md",
+    "Filosofia/Filosofia Política.md",
+    "Filosofia",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro pré-fixado.md",
     "Economia/Renda Fixa/CRI.md",
     "Economia/Renda Fixa/CRA.md",
     "Economia/Renda Fixa/LCA.md",
-    "Economia/Renda Fixa/LCI.md",
-    "Economia/Renda Fixa/CDB.md",
-    "Economia/Economia Brasileira/Fundo Garantidor de Crédito.md",
-    "Economia/Economia Brasileira/Companhia Brasileira de Liquidação e Custódia.md",
+    "Inglês/Simple Present.md",
+    "Economia/Economia Brasileira/Oferta Pública Inicial.md",
+    "Economia/Economia Brasileira/B3.md",
     "Economia/Economia Brasileira/Comissão de Valores Mobiliários.md",
+    "Economia/Economia Brasileira/Fundo Garantidor de Crédito.md",
+    "Economia/Renda Fixa/CDB.md",
+    "Economia/Economia Brasileira/Companhia Brasileira de Liquidação e Custódia.md",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
     "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Banco de dados/SQL.md",
@@ -217,10 +223,8 @@
     "Tecnologia/Banck-end/Csharp/Strings.md",
     "Tecnologia/Banck-end/Csharp/LINQ.md",
     "Tecnologia/Banck-end/Csharp/Dotnet.md",
-    "Tecnologia/Banck-end/Csharp/Array.md",
     "Tecnologia/Banco de dados",
     "Imagens/Pasted image 20241005183412.png",
-    "Tecnologia/ReGex.md",
     "Imagens/Pasted image 20241005183134.png",
     "Pasted image 20241005183107.png",
     "Imagens/Pasted image 20241005182739.png",
@@ -229,13 +233,6 @@
     "Imagens/Pasted image 20241005181935.png",
     "Imagens/Pasted image 20241005181915.png",
     "Imagens/Pasted image 20241005181713.png",
-    "Tecnologia/Git.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Deflação.md",
-    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Relatório de Estabilidade Financeira.md",
-    "Economia/Economia Brasileira/Banco de Compensações Internacionais.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
-    "Economia/Renda Fixa/Estratégias para a renda fixa.md",
-    "Economia/Renda Fixa/Níveis de correlação positiva.md",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf.crdownload",
     "Curso/AUVP/Módulo 02/Certificados.pdf",
@@ -244,7 +241,6 @@
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 06.png.crdownload",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 05.png.crdownload",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 04.png.crdownload",
-    "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 03.png.crdownload",
     "Tecnologia/Sem título.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",

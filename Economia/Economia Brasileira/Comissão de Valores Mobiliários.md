@@ -1,6 +1,10 @@
+---
+tags:
+  - Economia
+---
 ### O que é a Comissão de Valores Mobiliários (CVM) e qual o seu papel?
 
-A **Comissão de Valores Mobiliários (CVM)** é o órgão responsável por regular e fiscalizar o mercado de capitais no Brasil. Em outras palavras, ela é como uma “guardiã” do mercado financeiro, zelando para que todas as operações envolvendo valores mobiliários, como ações, debêntures e fundos de investimento, ocorram de maneira transparente, justa e segura. A CVM foi criada em 1976 e desde então atua com o objetivo de proteger os investidores e garantir a integridade do mercado.
+A **Comissão de Valores Mobiliários (CVM)** é o órgão responsável por regular e fiscalizar o mercado de capitais no Brasil. Em outras palavras, ela é como uma “guardiã” ou "Polícia" do mercado financeiro, zelando para que todas as operações envolvendo valores mobiliários, como ações, debêntures e fundos de investimento, ocorram de maneira transparente, justa e segura. A CVM foi criada em 1976 e desde então atua com o objetivo de proteger os investidores e garantir a integridade do mercado.
 
 ### Funções e responsabilidades da CVM
 
