@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e6c23547ed5ef78",
+        "id": "056a2f87c8b1aae7",
         "type": "tabs",
         "children": [
           {
-            "id": "60c719991b793f94",
+            "id": "5bf327fdf16af1e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/ReGex.md",
+                "file": "Tecnologia/Banck-end/Csharp/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "id": "056a2f87c8b1aae7",
+        "id": "25a99a64ef52545d",
         "type": "tabs",
         "children": [
           {
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologia/ReGex.md",
+                "file": "Tecnologia/Banck-end/Csharp/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologia/ReGex.md",
+                "file": "Tecnologia/Banck-end/Csharp/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologia/ReGex.md"
+                "file": "Tecnologia/Banck-end/Csharp/Array.md"
               }
             }
           },
@@ -197,18 +197,24 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "60c719991b793f94",
+  "active": "5bf327fdf16af1e9",
   "lastOpenFiles": [
-    "Pasted image 20241005183412.png",
-    "Pasted image 20241005183134.png",
-    "Pasted image 20241005183107.png",
+    "Tecnologia/Banco de dados/SQL.md",
+    "Tecnologia/Banco de dados/PostgreSQL.md",
+    "Tecnologia/Banck-end/Csharp/Array.md",
+    "Tecnologia/Banco de dados",
+    "Tecnologia/Banck-end/Csharp/LINQ.md",
+    "Tecnologia/Banck-end/Csharp/Strings.md",
+    "Imagens/Pasted image 20241005183412.png",
     "Tecnologia/ReGex.md",
-    "Pasted image 20241005182739.png",
-    "Pasted image 20241005182215.png",
-    "Pasted image 20241005182008.png",
-    "Pasted image 20241005181935.png",
-    "Pasted image 20241005181915.png",
-    "Pasted image 20241005181713.png",
+    "Imagens/Pasted image 20241005183134.png",
+    "Pasted image 20241005183107.png",
+    "Imagens/Pasted image 20241005182739.png",
+    "Imagens/Pasted image 20241005182215.png",
+    "Imagens/Pasted image 20241005182008.png",
+    "Imagens/Pasted image 20241005181935.png",
+    "Imagens/Pasted image 20241005181915.png",
+    "Imagens/Pasted image 20241005181713.png",
     "Tecnologia/Git.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Deflação.md",
     "déficits orçamentários.md",
@@ -217,7 +223,7 @@
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
     "Economia/Renda Fixa/Estratégias para a renda fixa.md",
     "Economia/Renda Fixa/Níveis de correlação positiva.md",
-    "Pasted image 20241005151718.png",
+    "Imagens/Pasted image 20241005151718.png",
     "Economia/Termos/Correlação positiva.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/As Seis Lições.md",
     "Economia/Renda Variável/Valor da empresa sobre EBITDA.md",
@@ -228,7 +234,6 @@
     "Curso/AUVP/Módulo 03/Módulo 03.pdf.crdownload",
     "Curso/AUVP/Módulo 02/Certificados.pdf",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Ludwig Von Mises.md",
-    "Pasted image 20240922225147.png",
     "Política Monetária.md",
     "Utilidade Marginal.pdf",
     "Geração de riqueza.pdf",
@@ -240,11 +245,6 @@
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 05.png.crdownload",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 04.png.crdownload",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 03.png.crdownload",
-    "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 02.png.crdownload",
-    "Economia/Finanças pessoais/Finanças pessoais.md",
-    "Economia/Termos/Tag Along.md",
-    "Direito/Lei das Sociedades Anônimas.md",
-    "Lei das Sociedades Anônimas (Lei nº 6.404/76).md",
     "Tecnologia/Sem título.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",
