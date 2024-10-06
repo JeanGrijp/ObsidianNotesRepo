@@ -1,3 +1,8 @@
+---
+tags:
+  - Tecnologia
+  - Dotnet
+---
 Em C# .NET ([Dotnet](Dotnet.md)), os arrays também possuem uma variedade de métodos e propriedades úteis para manipulação e gerenciamento de dados. Aqui estão alguns dos principais métodos e propriedades para trabalhar com arrays:
 
 ### **Propriedades do Array**

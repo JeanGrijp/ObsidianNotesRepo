@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Banck-end/Csharp/Array.md",
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologia/Banck-end/Csharp/Array.md",
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologia/Banck-end/Csharp/Array.md",
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologia/Banck-end/Csharp/Array.md"
+                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md"
               }
             }
           },
@@ -197,14 +197,20 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "5bf327fdf16af1e9",
+  "active": "cde5901b95b3e102",
   "lastOpenFiles": [
+    "Economia/Economia Brasileira/Companhia Brasileira de Liquidação e Custódia.md",
+    "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Banco de dados/SQL.md",
+    "Tecnologia/Banco de dados/Normalização.md",
+    "Lei das Sociedades Anônimas (Lei nº 6.404/76).md",
     "Tecnologia/Banco de dados/PostgreSQL.md",
+    "Tecnologia/Banco de dados/Trigger.md",
+    "Tecnologia/Banck-end/Csharp/Strings.md",
+    "Tecnologia/Banck-end/Csharp/LINQ.md",
+    "Tecnologia/Banck-end/Csharp/Dotnet.md",
     "Tecnologia/Banck-end/Csharp/Array.md",
     "Tecnologia/Banco de dados",
-    "Tecnologia/Banck-end/Csharp/LINQ.md",
-    "Tecnologia/Banck-end/Csharp/Strings.md",
     "Imagens/Pasted image 20241005183412.png",
     "Tecnologia/ReGex.md",
     "Imagens/Pasted image 20241005183134.png",
@@ -217,31 +223,24 @@
     "Imagens/Pasted image 20241005181713.png",
     "Tecnologia/Git.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Deflação.md",
-    "déficits orçamentários.md",
-    "Relatório de Estabilidade Financeira.md",
-    "Banco de Compensações Internacionais.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Relatório de Estabilidade Financeira.md",
+    "Economia/Economia Brasileira/Banco de Compensações Internacionais.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
     "Economia/Renda Fixa/Estratégias para a renda fixa.md",
     "Economia/Renda Fixa/Níveis de correlação positiva.md",
-    "Imagens/Pasted image 20241005151718.png",
     "Economia/Termos/Correlação positiva.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/As Seis Lições.md",
     "Economia/Renda Variável/Valor da empresa sobre EBITDA.md",
-    "fundos mútuos.md",
+    "Economia/Economia Brasileira/fundos mútuos.md",
     "Economia/Renda Variável/S&P 500.md",
     "Economia/Renda Variável/Renda Variável.md",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf.crdownload",
     "Curso/AUVP/Módulo 02/Certificados.pdf",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Ludwig Von Mises.md",
-    "Política Monetária.md",
     "Utilidade Marginal.pdf",
     "Geração de riqueza.pdf",
-    "Ludwig von Mises.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Inflação.md",
-    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Banco Central.md",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 06.png.crdownload",
-    "Tecnologia/Testes/Testes AB.md",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 05.png.crdownload",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 04.png.crdownload",
     "Curso/AUVP/Módulo 02/Mind Map/MÓDULO 2 - AULA 03.png.crdownload",

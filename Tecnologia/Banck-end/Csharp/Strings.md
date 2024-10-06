@@ -1,3 +1,8 @@
+---
+tags:
+  - Tecnologia
+  - Dotnet
+---
 No C# .NET, existem diversos métodos para manipulação de strings. Aqui estão alguns dos mais utilizados:
 
 1. **`Length`**: Retorna o número de caracteres na string.

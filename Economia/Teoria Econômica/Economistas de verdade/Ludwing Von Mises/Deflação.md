@@ -77,7 +77,7 @@ Segundo a Teoria Austríaca dos [[Ciclos Econômicos]], defendida por Mises, os 
    - Mises defendia o retorno ao padrão-ouro como meio de limitar a capacidade dos governos de inflacionar a moeda, promovendo estabilidade de longo prazo.
 
 4. **Responsabilidade Fiscal**:
-   - Governos devem evitar [[déficits orçamentários]] crônicos que possam levar a expansões monetárias para seu financiamento, causando distorções econômicas.
+   - Governos devem evitar [[Déficits Orçamentários]] crônicos que possam levar a expansões monetárias para seu financiamento, causando distorções econômicas.
 
 ### **Relevância Atual das Ideias de Mises sobre Deflação**
 
