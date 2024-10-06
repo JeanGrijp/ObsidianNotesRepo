@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
+                "file": "Economia/Renda Fixa/CRA.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Economia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
+                "file": "Economia/Renda Fixa/CRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
+                "file": "Economia/Renda Fixa/CRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md"
+                "file": "Economia/Renda Fixa/CRA.md"
               }
             }
           },
@@ -197,9 +197,17 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "cde5901b95b3e102",
+  "active": "5bf327fdf16af1e9",
   "lastOpenFiles": [
+    "Economia/Renda Fixa/CRI.md",
+    "Economia/Renda Fixa/CRA.md",
+    "Economia/Renda Fixa/LCA.md",
+    "Economia/Renda Fixa/LCI.md",
+    "Economia/Renda Fixa/CDB.md",
+    "Economia/Economia Brasileira/Fundo Garantidor de Crédito.md",
     "Economia/Economia Brasileira/Companhia Brasileira de Liquidação e Custódia.md",
+    "Economia/Economia Brasileira/Comissão de Valores Mobiliários.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
     "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Banco de dados/SQL.md",
     "Tecnologia/Banco de dados/Normalização.md",
@@ -223,18 +231,11 @@
     "Imagens/Pasted image 20241005181713.png",
     "Tecnologia/Git.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Deflação.md",
-    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional/Relatório de Estabilidade Financeira.md",
     "Economia/Economia Brasileira/Banco de Compensações Internacionais.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Geração de riqueza.md",
     "Economia/Renda Fixa/Estratégias para a renda fixa.md",
     "Economia/Renda Fixa/Níveis de correlação positiva.md",
-    "Economia/Termos/Correlação positiva.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/As Seis Lições.md",
-    "Economia/Renda Variável/Valor da empresa sobre EBITDA.md",
-    "Economia/Economia Brasileira/fundos mútuos.md",
-    "Economia/Renda Variável/S&P 500.md",
-    "Economia/Renda Variável/Renda Variável.md",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf.crdownload",
     "Curso/AUVP/Módulo 02/Certificados.pdf",
