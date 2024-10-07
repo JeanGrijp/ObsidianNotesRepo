@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Economia Brasileira/DREX.md",
+                "file": "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md"
+              }
             }
           },
           {
@@ -193,16 +197,30 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "5bf327fdf16af1e9",
   "lastOpenFiles": [
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro Selic pré-fixado.md",
+    "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro SELIC.md",
+    "Pasted image 20241007072300.png",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro Selic pré-fixado com juros semestrais.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro Renda+.md",
+    "Selic pré-fixado.md",
+    "Pasted image 20241007070914.png",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro Educa+.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+ com juros semestrais.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Atas do Copom.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro pós-fixado.md",
+    "Economia/Renda Fixa/SELIC.md",
+    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Banco Central.md",
+    "Economia/Economia Brasileira/IPCA.md",
     "Economia/Economia Brasileira/DREX.md",
     "Economia/Teoria Econômica/Ciclos Econômicos.md",
     "Economia/Economia Brasileira/Corretoras.md",
-    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Atas do Copom.md",
     "Economia/Renda Fixa/LCI.md",
     "Filosofia/Filosofia Política.md",
     "Filosofia",
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro pré-fixado.md",
     "Economia/Renda Fixa/CRI.md",
     "Economia/Renda Fixa/CRA.md",
     "Economia/Renda Fixa/LCA.md",
@@ -210,19 +228,7 @@
     "Economia/Economia Brasileira/Oferta Pública Inicial.md",
     "Economia/Economia Brasileira/B3.md",
     "Economia/Economia Brasileira/Comissão de Valores Mobiliários.md",
-    "Economia/Economia Brasileira/Fundo Garantidor de Crédito.md",
-    "Economia/Renda Fixa/CDB.md",
-    "Economia/Economia Brasileira/Companhia Brasileira de Liquidação e Custódia.md",
-    "Economia/Economia Brasileira/Sistema Financeiro Nacional/Déficits Orçamentários.md",
     "Imagens/Pasted image 20241006093741.png",
-    "Tecnologia/Banco de dados/SQL.md",
-    "Tecnologia/Banco de dados/Normalização.md",
-    "Lei das Sociedades Anônimas (Lei nº 6.404/76).md",
-    "Tecnologia/Banco de dados/PostgreSQL.md",
-    "Tecnologia/Banco de dados/Trigger.md",
-    "Tecnologia/Banck-end/Csharp/Strings.md",
-    "Tecnologia/Banck-end/Csharp/LINQ.md",
-    "Tecnologia/Banck-end/Csharp/Dotnet.md",
     "Tecnologia/Banco de dados",
     "Imagens/Pasted image 20241005183412.png",
     "Imagens/Pasted image 20241005183134.png",
@@ -231,8 +237,6 @@
     "Imagens/Pasted image 20241005182215.png",
     "Imagens/Pasted image 20241005182008.png",
     "Imagens/Pasted image 20241005181935.png",
-    "Imagens/Pasted image 20241005181915.png",
-    "Imagens/Pasted image 20241005181713.png",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf.crdownload",
     "Curso/AUVP/Módulo 02/Certificados.pdf",
