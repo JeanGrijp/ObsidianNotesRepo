@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "056a2f87c8b1aae7",
+        "id": "93f2ace4fa91665b",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf327fdf16af1e9",
+            "id": "6999ffa0fe224445",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "id": "25a99a64ef52545d",
+        "id": "e2affa5b09a85e82",
         "type": "tabs",
         "children": [
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +197,21 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "5bf327fdf16af1e9",
+  "active": "53f7637c5f86cd48",
   "lastOpenFiles": [
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro Selic pré-fixado.md",
-    "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro SELIC.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+.md",
+    "Economia/Renda Fixa/Renda Fixa.md",
+    "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
+    "Day trading.md",
+    "Economia/Renda Fixa/Níveis de correlação positiva.md",
+    "Economia/Renda Fixa/SELIC.md",
+    "FlashCard Escopo.md",
+    "Tecnologia/Front-end/Next/Next.js.md",
+    "Economia/Economia Brasileira/DREX.md",
+    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
+    "Tecnologia/Front-end/Next/SSR.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro Selic pré-fixado.md",
     "Pasted image 20241007072300.png",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro Selic pré-fixado com juros semestrais.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro Renda+.md",
@@ -209,25 +219,15 @@
     "Pasted image 20241007070914.png",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro Educa+.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+ com juros semestrais.md",
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+.md",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional/Atas do Copom.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro pós-fixado.md",
-    "Economia/Renda Fixa/SELIC.md",
     "Economia/Economia Brasileira/Sistema Financeiro Nacional/Banco Central.md",
     "Economia/Economia Brasileira/IPCA.md",
-    "Economia/Economia Brasileira/DREX.md",
     "Economia/Teoria Econômica/Ciclos Econômicos.md",
     "Economia/Economia Brasileira/Corretoras.md",
     "Economia/Renda Fixa/LCI.md",
     "Filosofia/Filosofia Política.md",
     "Filosofia",
-    "Economia/Renda Fixa/CRI.md",
-    "Economia/Renda Fixa/CRA.md",
-    "Economia/Renda Fixa/LCA.md",
-    "Inglês/Simple Present.md",
-    "Economia/Economia Brasileira/Oferta Pública Inicial.md",
-    "Economia/Economia Brasileira/B3.md",
-    "Economia/Economia Brasileira/Comissão de Valores Mobiliários.md",
     "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Banco de dados",
     "Imagens/Pasted image 20241005183412.png",
