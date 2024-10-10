@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,12 +193,13 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "53f7637c5f86cd48",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
+    "Economia/Termos/Custo de Oportunidade.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro SELIC.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+.md",
     "Economia/Renda Fixa/Renda Fixa.md",
-    "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
     "Day trading.md",
     "Economia/Renda Fixa/Níveis de correlação positiva.md",
     "Economia/Renda Fixa/SELIC.md",
@@ -226,7 +223,6 @@
     "Economia/Teoria Econômica/Ciclos Econômicos.md",
     "Economia/Economia Brasileira/Corretoras.md",
     "Economia/Renda Fixa/LCI.md",
-    "Filosofia/Filosofia Política.md",
     "Filosofia",
     "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Banco de dados",
