@@ -15,7 +15,7 @@ A deflação ocorre quando a oferta de bens e serviços supera a demanda agregad
 
 1. **Contração Monetária**:
    - **Descrição**: Redução na oferta de moeda e crédito na economia.
-   - **Exemplo**: Políticas monetárias restritivas do [[banco central]], como aumento das taxas de juros ou venda de [[títulos públicos]], que retiram dinheiro de circulação.
+   - **Exemplo**: Políticas monetárias restritivas do [[banco central]], como aumento das taxas de juros ou venda de títulos públicos, que retiram dinheiro de circulação.
 
 2. **Queda na Demanda Agregada**:
    - **Descrição**: Diminuição no consumo e investimento por parte de famílias e empresas.

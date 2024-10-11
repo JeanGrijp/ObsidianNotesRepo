@@ -6,7 +6,7 @@ tags:
 Acredito que seja o tipo de Tesouro direto mais famoso e que todo mundo que começa a investir vai colocar dinheiro em algum momento. O Tesouro [[Selic]] se divide entre o pós fixado e o pré-fixado.
 
 ### Pós-fixado
-Significa que você não conhece o valor final do seu investimento, ele segue o atual valor da taxa Selic e a medida que a mesma muda, seu rendimento também muda. Por padrão o Tesouro Selic é pós-fixado, quando não, é informado o nome Tesouro [[Selic pré-fixado]] que também pode ser com juros semestrais ([Tesouro Selic pré-fixado com juros semestrais](Tesouro%20Selic%20pré-fixado%20com%20juros%20semestrais.md)). 
+Significa que você não conhece o valor final do seu investimento, ele segue o atual valor da taxa Selic e a medida que a mesma muda, seu rendimento também muda. Por padrão o [[Tesouro Selic]] é pós-fixado, quando não, é informado o nome [[Tesouro Selic pré-fixado]] que também pode ser com juros semestrais ([Tesouro Selic pré-fixado com juros semestrais](Tesouro%20Selic%20pré-fixado%20com%20juros%20semestrais.md)). 
 
 O tesouro Selic não está livre das garras do governo, mesmo você emprestando dinheiro para o Estado, ele vai lhe tributar.
 

@@ -14,4 +14,4 @@ O inverso é verdadeiro, se a taxa Selic baixar, o seu valor inicial vai aumenta
 
 ###### Ideia
 
-Da pra você fazer o [[day trading]] do bem, o único que é válido, que é vender o seu [Tesouro Selic pré-fixado](Tesouro%20Selic%20pré-fixado.md) quando a marcação a mercado favorecer o seu capital, se a [[Selic]] baixar e para manter a rentabilidade o seu capital subir, você vende e ganha o percentual de aumento. Antes de fazer isso, você deve analisar o [[custo de oportunidade]] dessa decisão.
+Da pra você fazer o [[Day trading]] do bem, o único que é válido, que é vender o seu [Tesouro Selic pré-fixado](Tesouro%20Selic%20pré-fixado.md) quando a marcação a mercado favorecer o seu capital, se a [[Selic]] baixar e para manter a rentabilidade o seu capital subir, você vende e ganha o percentual de aumento. Antes de fazer isso, você deve analisar o [[custo de oportunidade]] dessa decisão.
