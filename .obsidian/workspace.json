@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Renda Fixa/LC.md",
+                "file": "Economia/Renda Fixa/CDI.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economia/Renda Fixa/CDI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economia/Renda Fixa/CDI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economia/Renda Fixa/CDI.md"
+              }
             }
           },
           {
@@ -193,20 +197,24 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "6999ffa0fe224445",
   "lastOpenFiles": [
-    "Economia/Renda Fixa/LC.md",
     "Economia/Renda Fixa/CDB.md",
+    "Economia/Renda Fixa/CDI.md",
+    "Economia/Renda Fixa/CRI.md",
+    "Economia/Renda Fixa/CRA.md",
+    "Economia/Renda Fixa/LCA.md",
+    "Economia/Economia Brasileira/Fundo Garantidor de Créditos.md",
+    "Economia/Renda Fixa/LCI.md",
+    "Economia/Renda Fixa/LC.md",
     "Economia/Renda Fixa/RDB.md",
     "Pasted image 20241011220834.png",
     "Economia/Índice de Basileia.md",
-    "Economia/Renda Fixa/CDI.md",
     "Economia/Comitê de Supervisão Bancária de Basileia.md",
     "Economia/Acordo de Basileia.md",
     "Economia/Banco de Compensações Internacionais.md",
     "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Deflação.md",
     "Economia/Depósito Interbancários.md",
-    "Economia/Renda Fixa/LCA.md",
     "Economia/Renda Fixa/SELIC.md",
     "Economia/Reserva Fracionária.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro SELIC.md",
@@ -218,10 +226,6 @@
     "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+.md",
     "Economia/Renda Fixa/Renda Fixa.md",
     "Economia/Níveis de correlação positiva.md",
-    "FlashCard Escopo.md",
-    "Tecnologia/Front-end/Next/Next.js.md",
-    "Economia/Economia Brasileira/DREX.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Murray Rothbard/Murray Rothbard.md",
     "Pasted image 20241007072300.png",
     "Pasted image 20241007070914.png",
     "Filosofia",

@@ -1,7 +1,7 @@
-Claro, aqui vai uma versão como se fosse você explicando sobre o **Fundo Garantidor de Créditos (FGC)**:
-
 ---
-
+tags:
+  - Economia
+---
 ### O que é o Fundo Garantidor de Créditos (FGC) e como ele funciona?
 
 O **Fundo Garantidor de Créditos (FGC)** é uma entidade essencial no sistema financeiro brasileiro, criada para proteger os investidores e garantir mais segurança para quem coloca dinheiro em certos tipos de investimentos bancários. Em termos simples, o FGC funciona como uma espécie de "seguro" para o seu dinheiro aplicado em alguns produtos financeiros, como poupança, [[CDB]] e [[LCI]].

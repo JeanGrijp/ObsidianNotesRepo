@@ -15,7 +15,7 @@ A **Letra de Câmbio (LC)** é também um investimento de renda fixa, semelhante
    - As **LCs** costumam ter prazos definidos de vencimento. Algumas podem oferecer liquidez diária, mas, em geral, o investidor precisa manter o dinheiro investido até o vencimento para obter a rentabilidade contratada.
    - A liquidez pode ser menor que a de outros investimentos, e é comum que o resgate antecipado não seja permitido, dependendo do tipo de LC.
 4. **Garantia**:
-   - As LCs também são garantidas pelo **[[Fundo Garantidor de Crédito]] (FGC)**, até o limite de **R$ 250 mil por CPF e por instituição financeira**. Isso oferece uma segurança ao investidor em caso de falência da instituição emissora.
+   - As LCs também são garantidas pelo **[[Fundo Garantidor de Créditos]] (FGC)**, até o limite de **R$ 250 mil por CPF e por instituição financeira**. Isso oferece uma segurança ao investidor em caso de falência da instituição emissora.
 
 ### Vantagens da Letra de Câmbio:
 - **Rentabilidade alta**: Como as LCs são emitidas por instituições financeiras não bancárias (como financeiras), elas tendem a oferecer uma rentabilidade mais atrativa que os CDBs emitidos por bancos grandes, justamente para compensar o maior risco percebido pelo mercado.
