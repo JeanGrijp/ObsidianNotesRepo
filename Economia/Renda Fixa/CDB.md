@@ -3,6 +3,17 @@ tags:
   - Economia
   - Renda_Fixa
 ---
-O CDI (Certificado de Depósito Interbancário) é uma taxa de juros usada como referência no mercado financeiro brasileiro. Ele representa a média dos juros que os bancos cobram entre si em empréstimos de curto prazo. A taxa do CDI geralmente acompanha a taxa [[Selic]], que é a taxa básica de juros da economia definida pelo [[Banco Central]].
+O CDB (Certificado de Depósito Bancário) é um tipo de investimento de renda fixa emitido pelos bancos. Quando você investe em um CDB, basicamente está "emprestando" dinheiro ao banco, que em troca paga uma remuneração sobre o valor investido.
 
-O CDI é muito utilizado como um parâmetro para investimentos, especialmente em aplicações de [[renda fixa]], como CDBs (Certificados de Depósito Bancário) e fundos [[Depósito Interbancários]]. Quando você vê que um investimento oferece, por exemplo, "100% do CDI", isso significa que ele vai render igual à taxa do CDI durante o período em que o investimento está aplicado.
+O banco quando emite o CDB, ele está querendo emprestar dinheiro a alguém, mas já emprestou o limite de crédito estabelecido pelo [[banco central]] com o [Índice de Basileia](Índice%20de%20Basileia.md), então o banco pega dinheiro emprestado com pessoas ou empresas e empresta esse dinheiro. 
+
+Os CDBs só podem ser emitidos por bancos grandes, bancos já consolidados e seguros.
+###### Diferença entre CDB, RDB e LC
+
+As diferenças entre CDB, [[RDB]] e [[LC]] com base nas instituições que emitem esses títulos e na segurança das instituições. Aqui está a explicação:
+
+- **CDB (Certificado de Depósito Bancário)**: Emitido por **bancos**.
+- **RDB (Recibo de Depósito Bancário)**: Emitido por **bancos, financeiras e cooperativas**.
+- **LC (Letra de Câmbio)**: Emitido por **financeiras e empresas de crédito**.
+
+A grande diferença entre eles está no tipo de instituição financeira que emite cada título. Isso pode impactar a segurança e a rentabilidade do investimento, pois depende da solidez da instituição emissora.
