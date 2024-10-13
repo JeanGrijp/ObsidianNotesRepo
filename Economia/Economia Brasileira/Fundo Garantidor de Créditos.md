@@ -16,8 +16,8 @@ Por exemplo, se você tiver R$ 200.000 investidos em um **CDB** em um banco que 
 #### Quais investimentos são protegidos pelo FGC?
 Nem todos os investimentos são cobertos pelo FGC. Aqui estão alguns dos principais produtos garantidos pelo fundo:
 - **Contas de poupança**
-- **CDBs (Certificados de Depósito Bancário)**
-- **LCI e LCA** (Letras de Crédito Imobiliário e do Agronegócio)
+- **[[CDB]]s (Certificados de Depósito Bancário)**
+- **[[LCI]] e [[LCA]]** (Letras de Crédito Imobiliário e do Agronegócio)
 - **Letras de câmbio**
 - **Depósitos à vista** (como o dinheiro que você deixa parado na conta corrente)
 - **Depósitos a prazo com ou sem emissão de certificado**

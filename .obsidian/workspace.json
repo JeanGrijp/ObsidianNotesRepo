@@ -6,6 +6,7 @@
       {
         "id": "93f2ace4fa91665b",
         "type": "tabs",
+        "dimension": 48.34166288050886,
         "children": [
           {
             "id": "6999ffa0fe224445",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Renda Fixa/CDI.md",
+                "file": "Economia/Renda Fixa/Onde investir em renda fixa e reserva.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "e2affa5b09a85e82",
         "type": "tabs",
+        "dimension": 51.65833711949114,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Renda Fixa/CDI.md",
+                "file": "Economia/Renda Fixa/Onde investir em renda fixa e reserva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Renda Fixa/CDI.md",
+                "file": "Economia/Renda Fixa/Onde investir em renda fixa e reserva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Renda Fixa/CDI.md"
+                "file": "Economia/Renda Fixa/Onde investir em renda fixa e reserva.md"
               }
             }
           },
@@ -199,33 +201,34 @@
   },
   "active": "6999ffa0fe224445",
   "lastOpenFiles": [
-    "Economia/Renda Fixa/CDB.md",
-    "Economia/Renda Fixa/CDI.md",
+    "Curso/AUVP/Módulo 03/Módulo 03.pdf",
+    "Economia/Renda Fixa/Onde investir em renda fixa e reserva.md",
+    "Economia/Renda Fixa/Fundos de investimentos.md",
+    "Economia/Renda Variável/Ibovespa.md",
+    "Pasted image 20241013115336.png",
+    "Economia/Renda Variável/Diagrama do Cerrado.md",
+    "Economia/Renda Fixa/LCA.md",
+    "Economia/Renda Fixa/LC.md",
+    "Economia/Renda Fixa/Estratégias para a renda fixa.md",
     "Economia/Renda Fixa/CRI.md",
     "Economia/Renda Fixa/CRA.md",
-    "Economia/Renda Fixa/LCA.md",
+    "Economia/Renda Fixa/CDI.md",
+    "Economia/Renda Fixa/CDB.md",
+    "Economia/Renda Fixa/Marcação a mercado.md",
+    "Economia/Economia Brasileira/B3.md",
+    "Economia/Economia Brasileira/Companhia Brasileira de Liquidação e Custódia.md",
+    "Economia/Economia Brasileira/Corretoras.md",
     "Economia/Economia Brasileira/Fundo Garantidor de Créditos.md",
-    "Economia/Renda Fixa/LCI.md",
-    "Economia/Renda Fixa/LC.md",
-    "Economia/Renda Fixa/RDB.md",
-    "Pasted image 20241011220834.png",
-    "Economia/Índice de Basileia.md",
-    "Economia/Comitê de Supervisão Bancária de Basileia.md",
-    "Economia/Acordo de Basileia.md",
-    "Economia/Banco de Compensações Internacionais.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Ludwing Von Mises/Deflação.md",
-    "Economia/Depósito Interbancários.md",
-    "Economia/Renda Fixa/SELIC.md",
-    "Economia/Reserva Fracionária.md",
     "Economia/Renda Fixa/Tesouro Direto/Tesouro SELIC.md",
-    "Economia/Termos/Day trading.md",
-    "Selic pré-fixado.md",
-    "depósitos interbancários.md",
-    "Economia/Renda Fixa/Tesouro Direto/Marcação a mercado.md",
-    "Economia/Termos/Custo de Oportunidade.md",
-    "Economia/Renda Fixa/Tesouro Direto/Tesouro IPCA+.md",
+    "Economia/Renda Fixa/Tesouro Direto/Tesouro Selic pré-fixado.md",
+    "Economia/Renda Fixa/Debêntures.md",
+    "Economia/Renda Fixa/RDB.md",
+    "Economia/Reserva Fracionária.md",
+    "Economia/Renda Fixa/SELIC.md",
     "Economia/Renda Fixa/Renda Fixa.md",
-    "Economia/Níveis de correlação positiva.md",
+    "Economia/Economia Brasileira/Plano Plurianual.md",
+    "Economia/Impostos/Como fugir de impostos.md",
+    "Pasted image 20241011220834.png",
     "Pasted image 20241007072300.png",
     "Pasted image 20241007070914.png",
     "Filosofia",
@@ -236,8 +239,6 @@
     "Pasted image 20241005183107.png",
     "Imagens/Pasted image 20241005182739.png",
     "Imagens/Pasted image 20241005182215.png",
-    "Imagens/Pasted image 20241005182008.png",
-    "Curso/AUVP/Módulo 03/Módulo 03.pdf",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf.crdownload",
     "Curso/AUVP/Módulo 02/Certificados.pdf",
     "Utilidade Marginal.pdf",
