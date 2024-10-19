@@ -4,7 +4,7 @@ tags:
   - Sociologia
   - Renda_Fixa
 ---
-Em caso de doença, demissão ou qualquer infortúnio que impacte sua vida, é preciso se certificar de ter esse valor de fácil acesso, com liquidez imediata, para garantir sua segurança e sobrevivência, de modo que não seja necessário recorrer aos seus investimentos de forma impulsiva para obter o montante necessário.
+ Em caso de doença, demissão ou qualquer infortúnio que impacte sua vida, é preciso se certificar de ter esse valor de fácil acesso, com liquidez imediata, para garantir sua segurança e sobrevivência, de modo que não seja necessário recorrer aos seus investimentos de forma impulsiva para obter o montante necessário.
 
 É muito comum manter essa reserva na conta poupança, que, apesar da ínfima taxa de juros, está disponível a qualquer momento. Dependendo da profissão, é válido constituir uma reserva de 1 ano, e não apenas de seis meses. Isso é importante, por exemplo, para um corretor de imóveis ou qualquer outra profissão que lide com renda inconstante ou variável.
 
