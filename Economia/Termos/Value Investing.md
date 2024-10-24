@@ -1,4 +1,10 @@
-**Value Investing** é uma estratégia de investimento baseada em comprar [[ações]] que o investidor acredita estarem sendo negociadas a um preço inferior ao seu **[[valor intrínseco]]** ou real. A ideia central é encontrar ações que o mercado está subvalorizando, comprá-las e mantê-las até que o mercado corrija essa distorção e o preço suba para o seu valor justo ou além dele.
+---
+tags:
+  - Economia
+  - Sociologia
+  - Filosofia
+---
+**Value Investing** é uma estratégia de investimento baseada em comprar [[ações]] que o investidor acredita estarem sendo negociadas a um preço inferior ao seu **valor intrínseco** ([Fórmula de Graham](Fórmula%20de%20Graham.md)) ou real. A ideia central é encontrar ações que o mercado está subvalorizando, comprá-las e mantê-las até que o mercado corrija essa distorção e o preço suba para o seu valor justo ou além dele.
 
 Aqui estão os principais pontos do **Value Investing**:
 
