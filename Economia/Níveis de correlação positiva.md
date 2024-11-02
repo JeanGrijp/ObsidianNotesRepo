@@ -1,3 +1,10 @@
+---
+tags:
+  - Ações
+  - Economia
+  - Filosofia
+  - Sociologia
+---
 ![](Pasted%20image%2020241005151718.png)
 
 Para ter uma segurança maior nos investimentos, o ideal é ter um grau cada vez menor de [[correlação positiva]] entre os ativos.
