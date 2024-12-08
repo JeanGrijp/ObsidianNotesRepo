@@ -33,9 +33,23 @@
               "icon": "lucide-file",
               "title": "Tags"
             }
+          },
+          {
+            "id": "6c1ae268ecc12d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/GoLang/Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Golang"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e2affa5b09a85e82",
@@ -236,9 +250,24 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "6c1ae268ecc12d9d",
   "lastOpenFiles": [
+    "Tecnologia/Docker/Docker.md",
+    "Tecnologia/GoLang/Golang.md",
+    "Tecnologia/Docker/Container.md",
+    "Tecnologia/Docker/CGroups.md",
+    "Tecnologia/Docker/Namespaces.md",
+    "Tecnologia/Docker/Isolamento.md",
+    "Captura de tela 2024-12-07 190003 1.png",
+    "Captura de tela 2024-12-07 190003.png",
+    "Pasted image 20241007070914.png",
+    "Pasted image 20241007072300.png",
+    "Pasted image 20241011220834.png",
+    "Pasted image 20241013115336.png",
     "Tecnologia/GoLang/Tags.md",
+    "Tecnologia/Docker/Imagens.md",
+    "Economia/Economia Brasileira/PIB.md",
+    "Tecnologia/Docker",
     "Tecnologia/GoLang/Bound check.md",
     "Tecnologia/Testes/Testes AB.md",
     "Tecnologia/GoLang/numMap.md",
@@ -263,27 +292,12 @@
     "Imagens/napkin-selection.svg",
     "Economia/Níveis de correlação positiva.md",
     "Economia/Teoria Econômica/Economistas de verdade/Philip Arthur Fisher/Philip Fisher.md",
-    "Livros/Ações Comuns, Lucros Extraordinários.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Peter Lynch.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Benjamin Graham/Fórmula de Graham.md",
-    "Livros/O Investidor Inteligente.md",
-    "Economia/Termos/Value Investing.md",
-    "Economia/Termos/Day trading.md",
-    "Economia/Termos/Buy and Hold.md",
-    "Economia/Teoria Econômica/Economistas de verdade/Philip Arthur Fisher/Scuttlebutt.md",
     "Economia/Teoria Econômica/Economistas de verdade/Philip Arthur Fisher",
     "Curso/AUVP/Módulo 01/Apostila.pdf",
     "Curso/AUVP/Módulo 01/Certificados.pdf",
     "Curso/AUVP/Módulo 03/Módulo 03.pdf",
-    "Pasted image 20241013115336.png",
-    "Pasted image 20241011220834.png",
-    "Pasted image 20241007072300.png",
-    "Pasted image 20241007070914.png",
     "Filosofia",
     "Imagens/Pasted image 20241006093741.png",
-    "Tecnologia/Banco de dados",
-    "Imagens/Pasted image 20241005183412.png",
-    "Imagens/Pasted image 20241005183134.png",
     "Tecnologia/Sem título.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",
