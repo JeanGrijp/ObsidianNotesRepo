@@ -29,7 +29,7 @@ A história do Docker é fascinante, pois ele nasceu como uma solução para pro
 8. **O Futuro: Docker e Open Source**  
     Em 2020, a **Mirantis** adquiriu a divisão de Docker Enterprise, enquanto a Docker Inc. focou na experiência do desenvolvedor e ferramentas open-source. O Docker ainda é amplamente usado por desenvolvedores para construir, testar e compartilhar aplicações, enquanto tecnologias como [[Kubernetes]] gerenciam containers em escala.
 
-O Docker foi criado em **Go** ([[Golang]]), uma linguagem de programação desenvolvida pelo Google. Go foi escolhido por sua combinação de **desempenho**, **eficiência** e **facilidade de uso**, características ideais para o tipo de aplicação que o Docker precisava ser.
+O Docker foi criado em **Go** ([[Tecnologia/GoLang/Go]]), uma linguagem de programação desenvolvida pelo Google. Go foi escolhido por sua combinação de **desempenho**, **eficiência** e **facilidade de uso**, características ideais para o tipo de aplicação que o Docker precisava ser.
 
 ### **Por que Go foi escolhido?**
 

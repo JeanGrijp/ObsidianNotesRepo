@@ -1,3 +1,8 @@
+---
+tags:
+  - Tecnologia
+  - GoLang
+---
 A história do **Go (Golang)** começa dentro do Google, como uma solução para os desafios que a empresa enfrentava ao lidar com sistemas de software cada vez mais complexos e que precisavam ser escaláveis, rápidos e fáceis de manter. Aqui está a evolução dessa linguagem:
 
 ### **1. O Contexto Antes do Go**
