@@ -28,74 +28,163 @@ O Dockerfile é onde eu vou declarar o que a minha aplicação precisa, é nele 
 
 ### exemplo de uso
 
-Um exemplo de um Dockerfile que constrói uma aplicação [[Go]] e prepara um ambiente com [[PostgreSQL]]. É importante ressaltar que, na prática, é comum separar a aplicação do banco de dados em dois [Container](Container.md) distintos (um container para a aplicação e outro para o banco), seguindo o padrão de [[microsserviços]] e aproveitando melhor a infraestrutura do [[Docker]]. Porém, aqui vai um exemplo integrando tudo em uma única [Imagem](Imagens.md) para fins ilustrativos:
+Um exemplo de um Dockerfile que constrói uma aplicação [[Go]]. É importante ressaltar que, na prática, é comum separar a aplicação do banco de dados em dois [Container](Container.md) distintos (um container para a aplicação e outro para o banco), seguindo o padrão de [[microsserviços]] e aproveitando melhor a infraestrutura do [[Docker]]. 
 
 ```dockerfile
 # Etapa 1: Construção do binário da aplicação Go
-FROM golang:1.20-alpine AS builder
+
+FROM golang
 
 # Definir diretório de trabalho
-WORKDIR /app
+
+WORKDIR /usr/cmd/server
 
 # Copiar arquivos de dependências do Go (go.mod e go.sum, se existirem)
-COPY go.mod go.sum ./
+
+COPY go.mod go.sum /usr/
+
+WORKDIR /usr
+
 RUN go mod download
 
 # Copiar o restante do código da aplicação
-COPY . .
+
+COPY . /usr
+
+WORKDIR /usr/cmd/server
 
 # Compilar a aplicação Go
+
 RUN go build -o myapp .
 
-# Etapa 2: Preparação da imagem final com PostgreSQL e a aplicação compilada
-FROM alpine:3.18
-
-# Instalar PostgreSQL e suas extensões
-RUN apk update && apk add --no-cache postgresql postgresql-contrib su-exec bash
-
-# Definir variáveis de ambiente do PostgreSQL
-ENV PGDATA=/var/lib/postgresql/data
-RUN mkdir -p $PGDATA && chown postgres:postgres $PGDATA
-
-# Copiar o binário da aplicação gerado na etapa anterior
-COPY --from=builder /app/myapp /usr/local/bin/myapp
-
-# Trocar para o usuário postgres (para iniciar o banco de dados de maneira mais segura)
-USER postgres
-
-# Inicializar o cluster do PostgreSQL
-RUN initdb -D $PGDATA
-
-# Configurar para que o banco aceite conexões (ajustes de configuração podem ser feitos em postgresql.conf ou pg_hba.conf)
-# Aqui, por simplicidade, deixamos o default
-
-# Voltar para o usuário root para iniciar serviços a partir do ENTRYPOINT
-USER root
-
-# Expõe a porta em que a aplicação Go vai rodar, por exemplo a 8080
-EXPOSE 8080
-
-# ENTRYPOINT que inicia o PostgreSQL e, em seguida, a aplicação
-# Primeiro, o PostgreSQL é iniciado em segundo plano
-# Depois a aplicação Go é executada
-ENTRYPOINT \
-  bash -c "su-exec postgres pg_ctl -D $PGDATA -o '-c listen_addresses=*' -w start && \
-           myapp"
+CMD ["./myapp"]
 ```
 
-**O que este Dockerfile faz:**
+# **O que este Dockerfile faz:**
 
-- **Fase de Build (builder):**
+### **1. Etapa 1: Construção do binário da aplicação Go**
+
+O objetivo dessa etapa é **compilar** a aplicação Go e preparar o ambiente de execução.
+
+#### **1.1 FROM golang**
+
+```dockerfile
+FROM golang
+```
+
+- O **`FROM`** especifica a imagem base.
+- Aqui é usada a imagem oficial do Go, disponível no Docker Hub.
+- Essa imagem já possui o **Go SDK** e ferramentas necessárias para compilar e rodar aplicações Go.
+
+---
+
+#### **1.2 WORKDIR /usr/cmd/server**
+
+```dockerfile
+WORKDIR /usr/cmd/server
+```
+
+- Define o **diretório de trabalho** onde os comandos seguintes serão executados.
+- Evita a necessidade de especificar o caminho em comandos posteriores.
+- Diretório inicial: `/usr/cmd/server`.
+
+---
+
+#### **1.3 COPY go.mod go.sum /usr/**
+
+```dockerfile
+COPY go.mod go.sum /usr/
+```
+
+- Copia os arquivos **`go.mod`** e **`go.sum`** (se existirem) do diretório local para o diretório `/usr/` no container.
+- **`go.mod`** e **`go.sum`** contêm informações sobre as dependências do projeto Go.
+
+---
+
+#### **1.4 WORKDIR /usr**
+
+```dockerfile
+WORKDIR /usr
+```
+
+- Muda o diretório de trabalho para `/usr`, onde estão os arquivos `go.mod` e `go.sum`.
+
+---
+
+#### **1.5 RUN go mod download**
+
+```dockerfile
+RUN go mod download
+```
+
+- **Baixa as dependências** listadas no `go.mod` para o cache do container.
+- Isso garante que as dependências sejam resolvidas antes de copiar o código da aplicação, otimizando o build.
+
+---
+
+#### **1.6 COPY . /usr**
+
+```dockerfile
+COPY . /usr
+```
+
+- Copia **todo o código-fonte da aplicação** (diretório atual) para `/usr` no container.
+- Isso inclui todos os arquivos Go e diretórios necessários.
+
+---
+
+#### **1.7 WORKDIR /usr/cmd/server**
+
+```dockerfile
+WORKDIR /usr/cmd/server
+```
+
+- Volta para o diretório `/usr/cmd/server`, onde está o código principal da aplicação.
+- Aqui o **build** será executado.
+
+---
+
+#### **1.8 RUN go build -o myapp .**
+
+```dockerfile
+RUN go build -o myapp .
+```
+
+- Compila o projeto Go.
+- O **`go build`** transforma o código-fonte em um **executável**.
+- O flag **`-o myapp`** define o nome do binário como `myapp`.
+- O ponto (`.`) indica que o código a ser compilado está no diretório atual.
+
+---
+
+#### **1.9 CMD ["./myapp"]**
+
+```dockerfile
+CMD ["./myapp"]
+```
+
+- Define o **comando padrão** que será executado quando o container for iniciado.
     
-    - Usa uma imagem `golang:1.20-alpine` para compilar o código Go.
-    - Copia o código-fonte, executa `go mod download` para baixar as dependências e compila a aplicação em um binário estático.
-- **Fase Final:**
+- Neste caso, executa o binário `myapp` gerado na etapa anterior.
     
-    - Usa uma imagem `alpine` mais leve como base.
-    - Instala o [[PostgreSQL]] e configura o diretório de dados.
-    - Copia o binário compilado da primeira fase para a imagem final.
-    - Inicializa o cluster do PostgreSQL.
-    - Ao iniciar o container (`docker run`), o ENTRYPOINT primeiro inicia o PostgreSQL em segundo plano e depois executa a aplicação Go.
+- Diferente de `RUN`, que é usado durante a **construção da imagem**, o `CMD` define o comando para **executar no runtime** (quando o container é iniciado).
+    
+
+---
+
+## Resumo das principais etapas:
+
+1. **Base image**: Utiliza `golang` como imagem base.
+2. **Dependências**:
+    - Copia `go.mod` e `go.sum`.
+    - Executa `go mod download` para baixar dependências.
+3. **Código-fonte**: Copia todo o código-fonte da aplicação.
+4. **Compilação**: Compila a aplicação Go com `go build`.
+5. **Execução**: Define `./myapp` como o comando padrão ao iniciar o container.
+
+---
+
+Se precisar adicionar algo mais, como **multi-stage builds** para otimizar o tamanho da imagem, me avise! 😊
 
 **Importante:**
 

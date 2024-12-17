@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Docker/Dockerfile.md",
-                "mode": "preview",
+                "file": "Tecnologia/Docker/Multi-Stage Build.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "Multi-Stage Build"
             }
           }
         ],
@@ -250,8 +250,9 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6c1ae268ecc12d9d",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Tecnologia/Docker/Multi-Stage Build.md",
     "Tecnologia/Docker/Dockerfile.md",
     "Tecnologia/Docker/Imagens.md",
     "Tecnologia/Docker/Docker.md",
@@ -288,7 +289,6 @@
     "Tecnologia/Docker",
     "Tecnologia/GoLang/Bound check.md",
     "Tecnologia/Testes/Testes AB.md",
-    "Tecnologia/GoLang/numMap.md",
     "Tecnologia/GoLang",
     "Imagens/Acordo de basileia 2.svg",
     "Imagens/Não confirmado 529852.crdownload",
