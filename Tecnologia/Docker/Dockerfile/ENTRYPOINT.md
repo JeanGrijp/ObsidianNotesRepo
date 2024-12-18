@@ -3,76 +3,251 @@ tags:
   - Tecnologia
   - Docker
 ---
-A instrução `ENTRYPOINT` no [[Dockerfile]] é usada para definir o **comando principal** que será executado quando o [[container]] iniciar. Diferente de `CMD`, o `ENTRYPOINT` é mais rígido, pois permite configurar o container para que ele sempre execute o comando especificado, mesmo se argumentos forem passados durante a execução.
+O **`ENTRYPOINT`** é como um comando **automático** que o container vai rodar **sempre que for iniciado**. Ele define **o que o [[container]] faz** por padrão.
 
-### Como funciona:
+Pense assim:
 
-- O `ENTRYPOINT` define o comando base que o container sempre executará.
-- Você pode passar argumentos adicionais no momento de executar o container usando `docker run`.
+- Você está criando um container que sempre roda um script ou programa específico.
+- O `ENTRYPOINT` garante que, quando você rodar o container, **esse comando será executado** automaticamente.
 
-### Formatos do `ENTRYPOINT`:
+### Exemplo simples:
 
-1. **Execução**:
-    - Define o comando como uma lista de strings.
-
-    ```Dockerfile
-    ENTRYPOINT ["comando", "arg1", "arg2"]
-    ```
-
-2. **Shell**:
-    - Executa o comando em um shell.
-
-    ```Dockerfile
-    ENTRYPOINT comando arg1 arg2
-    ```
-
-### Diferença entre `ENTRYPOINT` e `CMD`:
-
-- **`ENTRYPOINT`**:
-    - Focado em definir o comando principal que será executado no container.
-    - É imutável, ou seja, argumentos fornecidos via `docker run` são adicionados ao comando definido no `ENTRYPOINT`.
-- **`CMD`**:
-    - Define o comando padrão que pode ser substituído ao rodar o container.
-
-### Exemplos:
-
-#### Configurando `ENTRYPOINT`:
+Imagine que você quer que seu container rode o comando `python app.py` sempre que ele for iniciado. No [[Dockerfile]], você escreve:
 
 ```Dockerfile
 ENTRYPOINT ["python", "app.py"]
 ```
 
-- Aqui, o container sempre executará o comando `python app.py` ao ser iniciado.
-
-#### Adicionando argumentos na execução:
+Agora, toda vez que rodar o container com:
 
 ```bash
-docker run meu-container --arg1 valor1
+docker run meu-container
 ```
 
-- O comando final será: `python app.py --arg1 valor1`.
+O container vai automaticamente executar o comando:
 
-#### Combinando `ENTRYPOINT` e `CMD`:
+```bash
+python app.py
+```
 
-Você pode usar `ENTRYPOINT` para o comando principal e `CMD` para fornecer valores padrão para argumentos.
+### E se você quiser passar **argumentos extras**?
+
+O comando `ENTRYPOINT` é fixo, mas você pode adicionar **argumentos** quando rodar o container:
+
+```bash
+docker run meu-container --debug
+```
+
+Isso faz com que o container execute:
+
+```bash
+python app.py --debug
+```
+
+### Como é diferente do `CMD`?
+
+- **`ENTRYPOINT`**: Define **o que sempre será executado**, é como o "motor do container".
+- **`CMD`**: Dá opções ou argumentos **padrão**, que você pode substituir.
+
+Se usar os dois juntos:
 
 ```Dockerfile
 ENTRYPOINT ["python", "app.py"]
-CMD ["--arg1", "valor1"]
+CMD ["--debug"]
 ```
 
-- O comando final será: `python app.py --arg1 valor1`.
-- Se argumentos forem fornecidos via `docker run`, eles substituirão o `CMD`.
+Quando você rodar o container sem argumentos, ele fará:
 
-### Quando usar `ENTRYPOINT`:
+```bash
+python app.py --debug
+```
 
-- Quando você quer que o container sempre execute um comando específico.
-- Para criar containers que se comportam como executáveis, aceitando argumentos personalizados.
+Se passar algo no `docker run`:
+
+```bash
+docker run meu-container --prod
+```
+
+O comando final será:
+
+```bash
+python app.py --prod
+```
 
 
-### Cuidados ao usar:
+# Vamos explorar mais exemplos para facilitar o entendimento do `ENTRYPOINT`!
 
-1. **Flexibilidade**:
-    - Se o comando precisa ser facilmente substituível, prefira `CMD`.
-2. **Modo Shell**:
-    - Usar o formato shell pode causar problemas com sinais e comportamentos inesperados. Prefira o formato exec (`[]`).
+### 1. **Criar um container que sempre imprime uma mensagem**
+
+Dockerfile:
+
+```Dockerfile
+ENTRYPOINT ["echo", "Olá, este é o meu container!"]
+```
+
+Quando você rodar o container:
+
+```bash
+docker run meu-container
+```
+
+O container exibirá:
+
+```
+Olá, este é o meu container!
+```
+
+Se você passar algo no terminal, isso será adicionado ao comando:
+
+```bash
+docker run meu-container "e eu aceito argumentos!"
+```
+
+Saída:
+
+```
+Olá, este é o meu container! e eu aceito argumentos!
+```
+
+### 2. **Um servidor básico com Node.js**
+
+Dockerfile:
+
+```Dockerfile
+FROM node:16
+COPY app.js /app/app.js
+WORKDIR /app
+ENTRYPOINT ["node", "app.js"]
+```
+
+O container sempre executará o servidor com o comando:
+
+```bash
+node app.js
+```
+
+Se você rodar o container com argumentos adicionais:
+
+```bash
+docker run meu-container --port=3000
+```
+
+O comando será:
+
+```bash
+node app.js --port=3000
+```
+
+### 3. **Usar `ENTRYPOINT` para um script Bash**
+
+Dockerfile:
+
+```Dockerfile
+FROM ubuntu:20.04
+COPY script.sh /script.sh
+RUN chmod +x /script.sh
+ENTRYPOINT ["/script.sh"]
+```
+
+O container sempre executará o script `script.sh`. Quando você rodar:
+
+```bash
+docker run meu-container
+```
+
+O script será executado. Se você passar argumentos:
+
+```bash
+docker run meu-container argumento1 argumento2
+```
+
+O comando será:
+
+```bash
+/script.sh argumento1 argumento2
+```
+
+### 4. **Combinando `ENTRYPOINT` e `CMD`**
+
+Dockerfile:
+
+```Dockerfile
+FROM python:3.10
+COPY script.py /app/script.py
+WORKDIR /app
+ENTRYPOINT ["python", "script.py"]
+CMD ["--verbose"]
+```
+
+Se rodar o container sem argumentos:
+
+```bash
+docker run meu-container
+```
+
+O comando será:
+
+```bash
+python script.py --verbose
+```
+
+Se passar algo no `docker run`:
+
+```bash
+docker run meu-container --quiet
+```
+
+O comando será:
+
+```bash
+python script.py --quiet
+```
+
+### 5. **Criar um container que funciona como executável**
+
+Dockerfile:
+
+```Dockerfile
+FROM alpine:3.18
+ENTRYPOINT ["ls"]
+```
+
+Quando você rodar:
+
+```bash
+docker run meu-container /usr
+```
+
+O comando será:
+
+```bash
+ls /usr
+```
+
+### 6. **Baixar conteúdo automaticamente**
+
+Dockerfile:
+
+```Dockerfile
+FROM curlimages/curl:latest
+ENTRYPOINT ["curl"]
+```
+
+Rodando o container:
+
+```bash
+docker run meu-container https://example.com
+```
+
+O comando será:
+
+```bash
+curl https://example.com
+```
+
+Esses exemplos mostram como o `ENTRYPOINT` ajuda a criar containers que executam comandos ou scripts automaticamente, mas permitem flexibilidade para adicionar argumentos na execução. Precisa de mais exemplos ou ajustes? 😊
+### Resumo:
+
+- O `ENTRYPOINT` **fixa** o comando principal do container.
+- Você pode adicionar argumentos quando rodar o container.
+- É útil para criar containers que sempre executam uma tarefa específica, como um script ou servidor.
