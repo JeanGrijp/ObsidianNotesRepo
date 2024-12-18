@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Docker/Multi-Stage Build.md",
+                "file": "Tecnologia/Docker/Dockerfile/ENTRYPOINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multi-Stage Build"
+              "title": "ENTRYPOINT"
             }
           }
         ],
@@ -250,10 +250,18 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "6c1ae268ecc12d9d",
   "lastOpenFiles": [
+    "Tecnologia/Docker/Dockerfile/RUN.md",
+    "Tecnologia/Docker/Dockerfile/ENTRYPOINT.md",
+    "Tecnologia/Docker/Dockerfile/ADD.md",
+    "Tecnologia/Docker/Dockerfile/COPY.md",
+    "Tecnologia/Docker/Dockerfile/WORKDIR.md",
+    "Tecnologia/Docker/Dockerfile/Dockerfile.md",
+    "Tecnologia/Docker/Dockerfile/FROM.md",
+    "Tecnologia/Docker/Alpine.md",
     "Tecnologia/Docker/Multi-Stage Build.md",
-    "Tecnologia/Docker/Dockerfile.md",
+    "Tecnologia/Docker/Dockerfile",
     "Tecnologia/Docker/Imagens.md",
     "Tecnologia/Docker/Docker.md",
     "channels.md",
@@ -272,23 +280,16 @@
     "memory leaks.md",
     "Go.md",
     "Tecnologia/GoLang/Gerenciamento de memória/Heap.md",
-    "Tecnologia/GoLang/Go.md",
     "Tecnologia/GoLang/Algoritmos",
     "Tecnologia/GoLang/Estrutura de dados",
-    "Tecnologia/GoLang/Tags.md",
     "Tecnologia/GoLang/Gerenciamento de memória",
-    "Tecnologia/GoLang/Conversão de tipos.md",
-    "Tecnologia/Docker/Namespaces.md",
     "Captura de tela 2024-12-07 190003 1.png",
     "Captura de tela 2024-12-07 190003.png",
     "Pasted image 20241007070914.png",
     "Pasted image 20241007072300.png",
     "Pasted image 20241011220834.png",
     "Pasted image 20241013115336.png",
-    "Economia/Economia Brasileira/PIB.md",
     "Tecnologia/Docker",
-    "Tecnologia/GoLang/Bound check.md",
-    "Tecnologia/Testes/Testes AB.md",
     "Tecnologia/GoLang",
     "Imagens/Acordo de basileia 2.svg",
     "Imagens/Não confirmado 529852.crdownload",
@@ -296,7 +297,6 @@
     "Imagens/Não confirmado 371769.crdownload",
     "Curso/AUVP/Módulo 04/Módulo 04.pdf",
     "Imagens/napkin-selection.svg",
-    "Economia/Teoria Econômica/Economistas de verdade/Philip Arthur Fisher",
     "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Sem título.canvas",
     "Sem título.canvas",
