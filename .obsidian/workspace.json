@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Docker/Dockerfile/ENV.md",
+                "file": "Tecnologia/Docker/Multi-Stage Build.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENV"
+              "title": "Multi-Stage Build"
             }
           }
         ],
@@ -252,9 +252,14 @@
   },
   "active": "6c1ae268ecc12d9d",
   "lastOpenFiles": [
+    "Tecnologia/Docker/Volumes.md",
+    "Tecnologia/Docker/Compose.md",
+    "Tecnologia/Banco de dados/PostgreSQL.md",
+    "Tecnologia/Docker/Container.md",
+    "Tecnologia/Docker/Imagens.md",
+    "Tecnologia/Docker/Dockerfile/ENV.md",
     "Tecnologia/Docker/Dockerfile/ENTRYPOINT.md",
     "Tecnologia/Docker/Dockerfile/EXPOSE.md",
-    "Tecnologia/Docker/Dockerfile/ENV.md",
     "Tecnologia/GoLang/Gerenciamento de memória/Swaps.md",
     "Tecnologia/Docker/Dockerfile/Dockerfile.md",
     "Tecnologia/Docker/Dockerfile/CMD.md",
@@ -266,20 +271,15 @@
     "Tecnologia/Docker/Alpine.md",
     "Tecnologia/Docker/Multi-Stage Build.md",
     "Tecnologia/Docker/Dockerfile",
-    "Tecnologia/Docker/Imagens.md",
     "Tecnologia/Docker/Docker.md",
     "channels.md",
-    "Tecnologia/Docker/Volumes.md",
     "Tecnologia/Docker/Isolamento.md",
     "Tecnologia/Docker/Docker HUB.md",
-    "Tecnologia/Docker/Container.md",
-    "Tecnologia/Docker/Compose.md",
     "Tecnologia/Docker/CGroups.md",
     "Tecnologia/Kubernets",
     "Tecnologia/GoLang/Gerenciamento de memória/Stack.md",
     "Tecnologia/GoLang/Gerenciamento de memória/Memory Leaks.md",
     "Tecnologia/GoLang/Gerenciamento de memória/PProf.md",
-    "Tecnologia/GoLang/Gerenciamento de memória/Garbage Collector.md",
     "Tecnologia/GoLang/Algoritmos",
     "Tecnologia/GoLang/Estrutura de dados",
     "Tecnologia/GoLang/Gerenciamento de memória",
