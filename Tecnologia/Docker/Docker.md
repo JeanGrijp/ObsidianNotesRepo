@@ -39,3 +39,124 @@ O Docker foi criado em **[[Go]]** ([[Tecnologia/GoLang/Go]]), uma linguagem de p
 4. **Compilação Estática**: O Docker precisava ser uma aplicação que pudesse rodar em qualquer lugar sem dependências externas, algo que Go facilita com seus binários estáticos.
 
 Portanto, o Docker é essencialmente um exemplo perfeito de como Go pode ser usado para criar aplicações robustas, eficientes e portáveis.
+
+# Comandos do Docker
+
+## Iniciar um container
+
+O comando `docker run` é um dos mais utilizados no [[Docker]] e serve para criar e executar contêineres a partir de imagens. Ele combina a funcionalidade de criar o [container](Container.md) (`docker create`) com a de iniciar sua execução (`docker start`).
+
+Aqui estão os **argumentos mais utilizados** no `docker run` e suas funções:
+
+### **1. `--name`**
+
+- **Descrição**: Dá um nome ao contêiner.
+- **Exemplo**: `docker run --name meu-container nginx`
+- **Uso**: Facilita a identificação e manipulação do contêiner posteriormente.
+
+### **2. `-d` ou `--detach`**
+
+- **Descrição**: Executa o contêiner em segundo plano (modo "desacoplado").
+- **Exemplo**: `docker run -d nginx`
+- **Uso**: Útil para serviços que precisam rodar continuamente, como servidores web.
+
+### **3. `-p` ou `--publish`**
+
+- **Descrição**: Faz o mapeamento de portas entre o host e o contêiner.
+- **Exemplo**: `docker run -p 8080:80 nginx`
+- **Uso**: Permite acessar aplicações rodando no contêiner a partir do host.
+
+### **4. `-v` ou `--volume`**
+
+- **Descrição**: Monta volumes (ou diretórios) do host dentro do contêiner.
+- **Exemplo**: `docker run -v /meu/diretorio:/app nginx`
+- **Uso**: Útil para persistência de dados e desenvolvimento local.
+
+### **5. `-e` ou `--env`**
+
+- **Descrição**: Define variáveis de ambiente para o contêiner.
+- **Exemplo**: `docker run -e APP_ENV=production nginx`
+- **Uso**: Passa configurações dinâmicas para o contêiner.
+
+### **6. `--rm`**
+
+- **Descrição**: Remove automaticamente o contêiner ao finalizar sua execução.
+- **Exemplo**: `docker run --rm nginx`
+- **Uso**: Ideal para contêineres temporários ou de testes.
+
+### **7. `--network`**
+
+- **Descrição**: Define a rede que o contêiner deve usar.
+- **Exemplo**: `docker run --network minha-rede nginx`
+- **Uso**: Necessário para comunicar múltiplos contêineres entre si.
+
+### **8. `--restart`**
+
+- **Descrição**: Configura a política de reinício do contêiner.
+- **Exemplo**: `docker run --restart unless-stopped nginx`
+- **Opções**:
+    - `no`: Não reinicia (padrão).
+    - `always`: Sempre reinicia.
+    - `unless-stopped`: Reinicia, exceto se o contêiner for parado manualmente.
+
+### **9. `-it`**
+
+- **Descrição**: Permite interatividade com o terminal do contêiner.
+- **Exemplo**: `docker run -it ubuntu bash`
+- **Uso**: Útil para debugging e execução de comandos interativos.
+
+### **10. `--cpus` e `--memory`**
+
+- **Descrição**: Define limites de CPU e memória para o contêiner.
+- **Exemplo**:
+    - `docker run --cpus="1.5" nginx`
+    - `docker run --memory="512m" nginx`
+- **Uso**: Garante que o contêiner não consuma mais recursos do que o permitido.
+
+## **Parar um contêiner**
+
+- **Comando**:
+
+    ```bash
+docker stop <nome_do_container> ou <id_do_container>
+```
+
+- **Descrição**: Interrompe a execução de um contêiner ativo de forma segura.
+- **Exemplo**:
+
+    ```bash
+docker stop meu-container
+```
+
+
+## **Subir novamente um contêiner parado**
+
+- **Comando**:
+
+    ```bash
+docker start <nome_do_container> ou <id_do_container>
+```
+
+- **Descrição**: Reinicia um contêiner que foi parado anteriormente.
+- **Exemplo**:
+
+    ```bash
+docker start meu-container
+```
+
+## **Listar todos os contêineres (ativos e inativos)**
+
+- **Comando**:
+
+    ```bash
+docker ps -a
+```
+
+- **Descrição**: Mostra todos os contêineres, incluindo os que estão parados.
+- **Exemplo de saída**:
+
+    ```plaintext
+    CONTAINER ID   IMAGE        STATUS              NAMES
+    a1b2c3d4e5     nginx        Up 5 minutes        web-server
+    f6g7h8i9j0     ubuntu       Exited (0) 1 hour   teste-ubuntu
+    ```
