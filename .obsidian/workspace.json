@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/Docker/Docker.md",
+                "file": "Tecnologia/GoLang/Gerenciamento de memória/Garbage Collector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Garbage Collector"
             }
           }
         ],
@@ -252,6 +252,8 @@
   },
   "active": "6c1ae268ecc12d9d",
   "lastOpenFiles": [
+    "Tecnologia/Java",
+    "Tecnologia/Docker/Docker.md",
     "Tecnologia/Docker/Docker run.md",
     "Tecnologia/GoLang/Go.md",
     "Tecnologia/Docker/Compose.md",
@@ -274,12 +276,10 @@
     "Tecnologia/Docker/Dockerfile/FROM.md",
     "Tecnologia/Docker/Alpine.md",
     "Tecnologia/Docker/Dockerfile",
-    "Tecnologia/Docker/Docker.md",
     "channels.md",
     "Tecnologia/Docker/Isolamento.md",
     "Tecnologia/Docker/Docker HUB.md",
     "Tecnologia/Kubernets",
-    "Tecnologia/GoLang/Gerenciamento de memória/Stack.md",
     "Tecnologia/GoLang/Algoritmos",
     "Tecnologia/GoLang/Estrutura de dados",
     "Tecnologia/GoLang/Gerenciamento de memória",
