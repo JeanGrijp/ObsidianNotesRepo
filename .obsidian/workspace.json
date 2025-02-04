@@ -6,7 +6,7 @@
       {
         "id": "93f2ace4fa91665b",
         "type": "tabs",
-        "dimension": 48.34166288050886,
+        "dimension": 51.34313228585909,
         "children": [
           {
             "id": "6999ffa0fe224445",
@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Gerenciamento de memória/Garbage Collector.md",
+                "file": "Tecnologia/GoLang/Ponteiros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Collector"
+              "title": "Ponteiros"
             }
           }
         ],
@@ -54,7 +54,7 @@
       {
         "id": "e2affa5b09a85e82",
         "type": "tabs",
-        "dimension": 51.65833711949114,
+        "dimension": 48.6568677141409,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Economia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,8 +250,16 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6c1ae268ecc12d9d",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Tecnologia/GoLang/Ponteiros.md",
+    "Tecnologia/GoLang/Conversão de tipos.md",
+    "Teoria Musical/Power Chords.md",
+    "Teoria Musical/Tom e Semitom.md",
+    "Teoria Musical/Teoria Musical.md",
+    "Teoria Musical",
+    "Tecnologia/Docker/Volumes.md",
+    "Tecnologia/GoLang/Gerenciamento de memória/Garbage Collector.md",
     "Tecnologia/Java",
     "Tecnologia/Docker/Docker.md",
     "Tecnologia/Docker/Docker run.md",
@@ -259,7 +267,6 @@
     "Tecnologia/Docker/Compose.md",
     "Tecnologia/Docker/CGroups.md",
     "Tecnologia/Docker/Multi-Stage Build.md",
-    "Tecnologia/Docker/Volumes.md",
     "Tecnologia/Banco de dados/PostgreSQL.md",
     "Tecnologia/Docker/Container.md",
     "Tecnologia/Docker/Imagens.md",
@@ -273,12 +280,7 @@
     "Tecnologia/Docker/Dockerfile/ADD.md",
     "Tecnologia/Docker/Dockerfile/COPY.md",
     "Tecnologia/Docker/Dockerfile/WORKDIR.md",
-    "Tecnologia/Docker/Dockerfile/FROM.md",
-    "Tecnologia/Docker/Alpine.md",
     "Tecnologia/Docker/Dockerfile",
-    "channels.md",
-    "Tecnologia/Docker/Isolamento.md",
-    "Tecnologia/Docker/Docker HUB.md",
     "Tecnologia/Kubernets",
     "Tecnologia/GoLang/Algoritmos",
     "Tecnologia/GoLang/Estrutura de dados",
@@ -294,8 +296,6 @@
     "Imagens/Acordo de basileia 2.svg",
     "Imagens/Não confirmado 529852.crdownload",
     "Imagens/Acordo de basileia 1.svg",
-    "Imagens/Não confirmado 371769.crdownload",
-    "Curso/AUVP/Módulo 04/Módulo 04.pdf",
     "Imagens/napkin-selection.svg",
     "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Sem título.canvas",

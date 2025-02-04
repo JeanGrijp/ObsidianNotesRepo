@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Tecnologia",
@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "Guitarra",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +109,6 @@
   "repelStrength": 16.40625,
   "linkStrength": 0.606770833333333,
   "linkDistance": 61,
-  "scale": 0.3210616835222366,
+  "scale": 0.22015359335274245,
   "close": true
 }

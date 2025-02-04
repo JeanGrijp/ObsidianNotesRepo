@@ -87,5 +87,3 @@ type MyInt int
 var a int = 10
 var b MyInt = MyInt(a) // converte `int` para `MyInt`
 ```
-
-Essas são as formas básicas de conversão de tipos em Go. Lembre-se de que Go requer conversões explícitas e não realiza conversões automáticas de tipos, o que ajuda a evitar erros.
