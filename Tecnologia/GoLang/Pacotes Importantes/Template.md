@@ -508,12 +508,6 @@ go run main.go
 2️⃣ Acesse no navegador: 👉 [`http://localhost:8080/relatorio`](http://localhost:8080/relatorio)  
 3️⃣ O navegador **baixará automaticamente o relatório em PDF**! 🎉
 
----
-
-## 🚀 **Conclusão**
-
 ✅ Criamos um **web server** que gera **relatórios PDF** com templates dinâmicos.  
 ✅ Usamos **`gofpdf`** para formatar e salvar o PDF.  
 ✅ Simulamos um **relatório de vendas de um petshop**.
-
-💡 **Quer adicionar um formulário para o usuário escolher o período do relatório?** 😃

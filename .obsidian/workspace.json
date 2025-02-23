@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Pacotes Importantes/Template.md",
-                "mode": "preview",
+                "file": "Tecnologia/GoLang/Pacotes Importantes/OS.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template"
+              "title": "OS"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "acd6819da35da9a5",
   "lastOpenFiles": [
-    "Tecnologia/GoLang/Pacotes Importantes/strconv.md",
     "Tecnologia/GoLang/Pacotes Importantes/Template.md",
+    "Tecnologia/GoLang/Pacotes Importantes/strconv.md",
     "Tecnologia/GoLang/Pacotes Importantes/OS.md",
     "Tecnologia/GoLang/Pacotes Importantes/Cobra.md",
     "Tecnologia/GoLang/Pacotes Importantes/Sem título",
