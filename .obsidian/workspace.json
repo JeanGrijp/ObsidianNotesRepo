@@ -26,12 +26,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Pacotes Importantes/OS.md",
+                "file": "Tecnologia/GoLang/Estrutura de dados/Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "Stack"
+            }
+          },
+          {
+            "id": "697775541df59af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/GoLang/Métodos de array em Go.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Métodos de array em Go"
             }
           }
         ],
@@ -237,9 +251,16 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "acd6819da35da9a5",
+  "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Tecnologia/GoLang/Estrutura de dados/Stack.md",
     "Tecnologia/GoLang/Pacotes Importantes/Template.md",
+    "Tecnologia/GoLang/Métodos de array em Go.md",
+    "Tecnologia/GoLang/Conversão de tipos.md",
+    "Tecnologia/Banco de dados/PostgreSQL/Tipos.md",
+    "Tecnologia/Banco de dados/SQL.md",
+    "Tecnologia/Banco de dados/PostgreSQL/PostgreSQL.md",
+    "Tecnologia/Banco de dados/PostgreSQL",
     "Tecnologia/GoLang/Pacotes Importantes/strconv.md",
     "Tecnologia/GoLang/Pacotes Importantes/OS.md",
     "Tecnologia/GoLang/Pacotes Importantes/Cobra.md",
@@ -247,7 +268,6 @@
     "Tecnologia/GoLang/Pacotes Importantes",
     "Tecnologia/GoLang/Structs.md",
     "Tecnologia/GoLang/Ponteiros.md",
-    "Tecnologia/GoLang/Conversão de tipos.md",
     "Teoria Musical/Power Chords.md",
     "Teoria Musical/Tom e Semitom.md",
     "Teoria Musical/Teoria Musical.md",
@@ -261,14 +281,9 @@
     "Tecnologia/Docker/Compose.md",
     "Tecnologia/Docker/CGroups.md",
     "Tecnologia/Docker/Multi-Stage Build.md",
-    "Tecnologia/Banco de dados/PostgreSQL.md",
     "Tecnologia/Docker/Container.md",
     "Tecnologia/Docker/Imagens.md",
     "Tecnologia/Docker/Dockerfile/ENV.md",
-    "Tecnologia/Docker/Dockerfile/ENTRYPOINT.md",
-    "Tecnologia/Docker/Dockerfile/EXPOSE.md",
-    "Tecnologia/GoLang/Gerenciamento de memória/Swaps.md",
-    "Tecnologia/Docker/Dockerfile/Dockerfile.md",
     "Tecnologia/Docker/Dockerfile",
     "Tecnologia/Kubernets",
     "Tecnologia/GoLang/Algoritmos",
@@ -280,7 +295,6 @@
     "Pasted image 20241007072300.png",
     "Pasted image 20241011220834.png",
     "Pasted image 20241013115336.png",
-    "Tecnologia/Docker",
     "Imagens/Acordo de basileia 2.svg",
     "Imagens/Acordo de basileia 1.svg",
     "Imagens/napkin-selection.svg",

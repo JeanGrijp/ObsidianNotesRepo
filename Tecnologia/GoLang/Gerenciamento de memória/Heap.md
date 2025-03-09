@@ -1,4 +1,4 @@
-As informações na **heap** são armazenadas para representar dados que precisam de mais flexibilidade ou um tempo de vida mais longo, sendo diferente da **[[stack]]**, que é mais restritiva e rápida. Vamos detalhar como a memória é alocada e gerenciada na heap, especialmente em [[Go]].
+As informações na **heap** são armazenadas para representar dados que precisam de mais flexibilidade ou um tempo de vida mais longo, sendo diferente da **[[Tecnologia/GoLang/Gerenciamento de memória/Stack]]**, que é mais restritiva e rápida. Vamos detalhar como a memória é alocada e gerenciada na heap, especialmente em [[Go]].
 
 ---
 
@@ -26,7 +26,7 @@ A heap é uma região de memória usada para armazenar objetos e dados que preci
         
 2. **Tempo de Vida Prolongado**:
     
-    - Diferentemente da [[stack]], onde as variáveis são liberadas automaticamente quando o escopo termina, os dados na heap permanecem na memória até que o _[[Garbage Collector]]_ (GC) os limpe.
+    - Diferentemente da [[Tecnologia/GoLang/Gerenciamento de memória/Stack]], onde as variáveis são liberadas automaticamente quando o escopo termina, os dados na heap permanecem na memória até que o _[[Garbage Collector]]_ (GC) os limpe.
     - Isso permite compartilhar a memória entre diferentes partes do programa.
 3. **Ponteiros e Referências**:
     
