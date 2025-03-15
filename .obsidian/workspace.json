@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Estrutura de dados/Stack.md",
+                "file": "Tecnologia/GoLang/Structs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stack"
+              "title": "Structs"
             }
           },
           {
@@ -253,6 +253,9 @@
   },
   "active": "6384efd74383b72c",
   "lastOpenFiles": [
+    "Tecnologia/GoLang/Structs.md",
+    "Tecnologia/GoLang/Tags.md",
+    "Tecnologia/GoLang/Go Workspace.md",
     "Tecnologia/GoLang/Estrutura de dados/Stack.md",
     "Tecnologia/GoLang/Pacotes Importantes/Template.md",
     "Tecnologia/GoLang/Métodos de array em Go.md",
@@ -266,7 +269,6 @@
     "Tecnologia/GoLang/Pacotes Importantes/Cobra.md",
     "Tecnologia/GoLang/Pacotes Importantes/Sem título",
     "Tecnologia/GoLang/Pacotes Importantes",
-    "Tecnologia/GoLang/Structs.md",
     "Tecnologia/GoLang/Ponteiros.md",
     "Teoria Musical/Power Chords.md",
     "Teoria Musical/Tom e Semitom.md",
@@ -282,8 +284,6 @@
     "Tecnologia/Docker/CGroups.md",
     "Tecnologia/Docker/Multi-Stage Build.md",
     "Tecnologia/Docker/Container.md",
-    "Tecnologia/Docker/Imagens.md",
-    "Tecnologia/Docker/Dockerfile/ENV.md",
     "Tecnologia/Docker/Dockerfile",
     "Tecnologia/Kubernets",
     "Tecnologia/GoLang/Algoritmos",

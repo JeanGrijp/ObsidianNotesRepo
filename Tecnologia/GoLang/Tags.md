@@ -3,7 +3,7 @@ tags:
   - Tecnologia
   - GoLang
 ---
-No Go, ao trabalhar com `JSON` e `structs`, você pode usar **`tags`** para personalizar a representação das propriedades da struct em JSON. Abaixo, explico as formas mais comuns de representar JSON e as possibilidades que você tem ao configurar `structs`:
+No [[Go]], ao trabalhar com `JSON` e `structs`, você pode usar **`tags`** para personalizar a representação das propriedades da [struct](Structs.md) em JSON. Abaixo, explico as formas mais comuns de representar JSON e as possibilidades que você tem ao configurar `structs`:
 
 ---
 
