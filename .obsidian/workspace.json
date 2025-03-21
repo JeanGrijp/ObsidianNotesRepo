@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/SQLX.md",
-                "mode": "source",
+                "file": "Tecnologia/GoLang/Structs.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLX"
+              "title": "Structs"
             }
           },
           {
