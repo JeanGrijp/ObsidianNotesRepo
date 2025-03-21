@@ -6,7 +6,7 @@
       {
         "id": "93f2ace4fa91665b",
         "type": "tabs",
-        "dimension": 51.34313228585909,
+        "dimension": 51.24176381145463,
         "children": [
           {
             "id": "6999ffa0fe224445",
@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Structs.md",
+                "file": "Tecnologia/GoLang/SQLX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structs"
+              "title": "SQLX"
             }
           },
           {
@@ -54,7 +54,7 @@
       {
         "id": "e2affa5b09a85e82",
         "type": "tabs",
-        "dimension": 48.6568677141409,
+        "dimension": 48.75823618854536,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -251,8 +251,9 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "6384efd74383b72c",
+  "active": "acd6819da35da9a5",
   "lastOpenFiles": [
+    "Tecnologia/GoLang/SQLX.md",
     "Tecnologia/GoLang/Structs.md",
     "Tecnologia/GoLang/Tags.md",
     "Tecnologia/GoLang/Go Workspace.md",
@@ -283,7 +284,6 @@
     "Tecnologia/Docker/Compose.md",
     "Tecnologia/Docker/CGroups.md",
     "Tecnologia/Docker/Multi-Stage Build.md",
-    "Tecnologia/Docker/Container.md",
     "Tecnologia/Docker/Dockerfile",
     "Tecnologia/Kubernets",
     "Tecnologia/GoLang/Algoritmos",
