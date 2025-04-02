@@ -307,18 +307,3 @@ default:
     
 5. **Use `context.Context` para cancelamento em sistemas mais complexos.** Ele é baseado em canais internamente e fornece deadline, timeout e cancelamento em cascata.
     
-
----
-
-Se você quiser, posso expandir com:
-
-- Implementação de **fan-in** (várias fontes para um canal)
-    
-- **fan-out** (dividir trabalho entre várias goroutines)
-    
-- Aplicações reais com **context.Context**
-    
-- Ou migrar esse conhecimento para o seu projeto atual
-    
-
-Qual dessas abordagens você gostaria de ver em seguida?
