@@ -4,7 +4,7 @@ tags:
   - back-end
   - GoLang
 ---
-Goroutines são uma funcionalidade fundamental em Go que permite executar funções ou métodos de forma concorrente, ou seja, em paralelo com outras partes do programa. Elas são leves, eficientes e facilitam a escrita de programas que fazem múltiplas tarefas ao mesmo tempo.
+Goroutines são uma funcionalidade fundamental em [[Go]] que permite executar funções ou métodos de forma concorrente, ou seja, em paralelo com outras partes do programa. Elas são leves, eficientes e facilitam a escrita de programas que fazem múltiplas tarefas ao mesmo tempo.
 
 ### O que são Goroutines?
 
@@ -87,7 +87,7 @@ func main() {
 
 ### Exemplo 3: Comunicação entre Goroutines com Channels
 
-Channels são utilizados para comunicação segura entre goroutines.
+[[Channels]] são utilizados para comunicação segura entre goroutines.
 
 ```go
 package main

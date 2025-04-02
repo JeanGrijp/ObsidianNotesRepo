@@ -6,7 +6,7 @@
       {
         "id": "93f2ace4fa91665b",
         "type": "tabs",
-        "dimension": 51.24176381145463,
+        "dimension": 58.18550430816016,
         "children": [
           {
             "id": "6999ffa0fe224445",
@@ -26,35 +26,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Structs.md",
+                "file": "Tecnologia/GoLang/Microsserviços em Go.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structs"
+              "title": "Microsserviços em Go"
             }
           },
           {
-            "id": "697775541df59af6",
+            "id": "3a4715a128e222e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Métodos de array em Go.md",
+                "file": "Tecnologia/GoLang/injeção de dependência.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Métodos de array em Go"
+              "title": "injeção de dependência"
+            }
+          },
+          {
+            "id": "95c73e9c6da9ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/GoLang/Channels.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Channels"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "e2affa5b09a85e82",
         "type": "tabs",
-        "dimension": 48.75823618854536,
+        "dimension": 41.81449569183984,
         "children": [
           {
             "id": "6384efd74383b72c",
@@ -251,15 +265,23 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "acd6819da35da9a5",
+  "active": "95c73e9c6da9ff2e",
   "lastOpenFiles": [
-    "Tecnologia/GoLang/SQLX.md",
+    "Tecnologia/GoLang/Channels.md",
+    "Tecnologia/GoLang/GoRoutines.md",
+    "Tecnologia/GoLang/Microsserviços em Go.md",
+    "Tecnologia/GoLang/injeção de dependência.md",
+    "Tecnologia/GoLang/Métodos de array em Go.md",
+    "Tecnologia/GoLang/Threads.md",
+    "JWT.md",
+    "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal.md",
+    "Tecnologia/GoLang/Arquitetura",
     "Tecnologia/GoLang/Structs.md",
+    "Tecnologia/GoLang/SQLX.md",
     "Tecnologia/GoLang/Tags.md",
     "Tecnologia/GoLang/Go Workspace.md",
     "Tecnologia/GoLang/Estrutura de dados/Stack.md",
     "Tecnologia/GoLang/Pacotes Importantes/Template.md",
-    "Tecnologia/GoLang/Métodos de array em Go.md",
     "Tecnologia/GoLang/Conversão de tipos.md",
     "Tecnologia/Banco de dados/PostgreSQL/Tipos.md",
     "Tecnologia/Banco de dados/SQL.md",
@@ -276,19 +298,11 @@
     "Teoria Musical/Teoria Musical.md",
     "Teoria Musical",
     "Tecnologia/Docker/Volumes.md",
-    "Tecnologia/GoLang/Gerenciamento de memória/Garbage Collector.md",
     "Tecnologia/Java",
-    "Tecnologia/Docker/Docker.md",
-    "Tecnologia/Docker/Docker run.md",
-    "Tecnologia/GoLang/Go.md",
-    "Tecnologia/Docker/Compose.md",
-    "Tecnologia/Docker/CGroups.md",
-    "Tecnologia/Docker/Multi-Stage Build.md",
     "Tecnologia/Docker/Dockerfile",
     "Tecnologia/Kubernets",
     "Tecnologia/GoLang/Algoritmos",
     "Tecnologia/GoLang/Estrutura de dados",
-    "Tecnologia/GoLang/Gerenciamento de memória",
     "Captura de tela 2024-12-07 190003 1.png",
     "Captura de tela 2024-12-07 190003.png",
     "Pasted image 20241007070914.png",
