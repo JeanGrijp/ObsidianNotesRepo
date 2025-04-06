@@ -40,30 +40,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/injeção de dependência.md",
+                "file": "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal, isolando o domínio do caos externo..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "injeção de dependência"
-            }
-          },
-          {
-            "id": "95c73e9c6da9ff2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologia/GoLang/Channels.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Channels"
+              "title": "Arquitetura Hexagonal, isolando o domínio do caos externo."
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "e2affa5b09a85e82",
@@ -81,8 +67,37 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "2aef92857aeed26b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/GoLang/Arquitetura/Inversão de Dependência.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inversão de Dependência"
+            }
+          },
+          {
+            "id": "95c73e9c6da9ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/GoLang/Arquitetura/Programação Orientada a Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programação Orientada a Interfaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +150,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,16 +281,21 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "95c73e9c6da9ff2e",
+  "active": "3a4715a128e222e5",
   "lastOpenFiles": [
+    "Tecnologia/GoLang/injeção de dependência.md",
+    "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal, isolando o domínio do caos externo..md",
+    "Tecnologia/GoLang/Arquitetura/Programação Orientada a Interfaces.md",
+    "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal.md",
+    "Tecnologia/GoLang/Arquitetura/Inversão de Dependência.md",
+    "Sem título.md",
+    "Screenshot 2025-04-05 212644.png",
     "Tecnologia/GoLang/Channels.md",
     "Tecnologia/GoLang/GoRoutines.md",
     "Tecnologia/GoLang/Microsserviços em Go.md",
-    "Tecnologia/GoLang/injeção de dependência.md",
     "Tecnologia/GoLang/Métodos de array em Go.md",
     "Tecnologia/GoLang/Threads.md",
     "JWT.md",
-    "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal.md",
     "Tecnologia/GoLang/Arquitetura",
     "Tecnologia/GoLang/Structs.md",
     "Tecnologia/GoLang/SQLX.md",
@@ -293,11 +314,7 @@
     "Tecnologia/GoLang/Pacotes Importantes/Sem título",
     "Tecnologia/GoLang/Pacotes Importantes",
     "Tecnologia/GoLang/Ponteiros.md",
-    "Teoria Musical/Power Chords.md",
-    "Teoria Musical/Tom e Semitom.md",
-    "Teoria Musical/Teoria Musical.md",
     "Teoria Musical",
-    "Tecnologia/Docker/Volumes.md",
     "Tecnologia/Java",
     "Tecnologia/Docker/Dockerfile",
     "Tecnologia/Kubernets",
@@ -312,7 +329,6 @@
     "Imagens/Acordo de basileia 2.svg",
     "Imagens/Acordo de basileia 1.svg",
     "Imagens/napkin-selection.svg",
-    "Imagens/Pasted image 20241006093741.png",
     "Tecnologia/Sem título.canvas",
     "Sem título.canvas",
     "Sem título 1.canvas",
