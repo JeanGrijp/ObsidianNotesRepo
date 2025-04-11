@@ -226,8 +226,9 @@
   },
   "active": "79fbab12a78deae4",
   "lastOpenFiles": [
-    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Thread.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Heap.md",
     "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Call Stack.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Thread.md",
     "Tecnologia/Linguagem de programação/GoLang/Estrutura de dados/Stack.md",
     "Tecnologia/Linguagem de programação/GoLang/Estrutura de dados/LIFO.md",
     "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Swaps.md",
@@ -254,7 +255,6 @@
     "Tecnologia/Linguagem de programação/GoLang/Arquitetura com Go",
     "Tecnologia/Linguagem de programação/GoLang/Structs.md",
     "Tecnologia/Linguagem de programação/GoLang/SQLX.md",
-    "Tecnologia/Linguagem de programação/GoLang/Tags.md",
     "Tecnologia/Banco de dados/PostgreSQL",
     "Tecnologia/GoLang/Pacotes Importantes/Sem título",
     "Tecnologia/Linguagem de programação/GoLang/Pacotes Importantes",

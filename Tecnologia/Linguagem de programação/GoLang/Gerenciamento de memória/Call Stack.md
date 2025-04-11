@@ -31,3 +31,66 @@ Agora vem a parte legal (ou trágica, depende de quanto você gosta de ver seu p
 
 Isso funciona porque o Go controla todo o ambiente da goroutine. Nenhum ponteiro externo aponta diretamente pro stack (pelo menos, não deveria — o compilador e o [[garbage collector]] trabalham pra evitar isso), então é seguro mover tudo sem causar um incêndio na memória. Por isso, o Go consegue crescer stacks conforme a necessidade sem causar overhead constante. Você paga o preço da realocação só quando realmente precisa. Isso também explica por que goroutines são tão leves: elas só consomem o que for necessário, e vão crescendo conforme o uso real, em vez de começar como um trambolho de 1 MB cada uma.
 
+### Heap x Stack
+
+No Go, o gerenciamento de memória é dividido entre duas regiões principais: a **stack** e o **[[heap]]**. A stack é usada para armazenar variáveis locais de curta duração, parâmetros de função e tudo que pode ser descartado rapidamente assim que a função termina. Cada vez que uma função é chamada, o Go aloca um pequeno espaço na stack — chamado de _stack frame_ — onde ele guarda todas as informações relacionadas àquela execução. Esse espaço inclui os argumentos passados, variáveis locais e um ponteiro que indica onde a execução deve continuar quando a função retornar. Quando a função termina, esse frame é simplesmente removido da stack, liberando o espaço de forma rápida e eficiente.
+
+A stack no Go é única para cada **goroutine**. Isso significa que toda goroutine que você cria tem sua própria pilha, independente das outras. Essas stacks são minúsculas por padrão (começam com apenas 2KB), mas têm a habilidade mágica de crescer dinamicamente se for necessário, através de um processo chamado **stack splitting**. Isso permite que milhares ou até milhões de goroutines coexistam sem fritar sua máquina, o que é uma façanha que linguagens mais ortodoxas como Java só conseguem com oração.
+
+Já o heap é onde moram as variáveis que o compilador acha que vão viver por mais tempo, ou que precisam ser acessadas fora do escopo da função onde nasceram. O Go decide o destino de cada variável usando uma técnica chamada **escape analysis**, que basicamente responde à pergunta: “essa variável vai vazar do contexto onde foi criada?” Se sim, ela vai direto pro heap. Isso acontece, por exemplo, quando você retorna o ponteiro de uma variável local, ou quando uma função armazena referências em uma estrutura que vai sobreviver à execução atual.
+
+As funções em si — ou seja, o código delas — não vão pra heap nem pra stack. Elas são armazenadas numa região separada da memória chamada **text segment**, que é onde vive o binário compilado. Quando você chama uma função, o Go basicamente empilha um novo frame na stack da goroutine ativa e pula praquele endereço no text segment. Quando ela termina, ele volta pro ponto anterior e a vida segue.
+
+Esse modelo é extremamente eficiente. Usar a stack como área principal de alocação temporária reduz a carga do **garbage collector**, que só precisa se preocupar com as variáveis no heap. Mas como nem tudo é perfeito, você ainda precisa estar ciente de quando suas variáveis vão parar lá, pra evitar alocações desnecessárias e gargalos invisíveis de desempenho. E sim, isso significa que _às vezes_ vale a pena olhar os relatórios de escape do compilador — por mais deprimentes que eles sejam.
+
+##### As funções em Go
+
+Já as funções, diferentemente das variáveis, têm um destino completamente diferente. O código da função em si é armazenado em uma região especial da memória chamada text segment, também conhecida como code segment. Essa parte da memória é onde vive o código executável do programa. Quando você chama uma função, a CPU salta para o endereço correspondente no text segment, e as variáveis que a função usa são empilhadas na stack ou alocadas no heap, dependendo do que o compilador decidir.
+
+Essa arquitetura torna o Go extremamente eficiente para lidar com concorrência e múltiplas goroutines. Cada goroutine tem sua própria stack que começa pequena e pode crescer de forma dinâmica, permitindo que você tenha milhares de tarefas leves rodando ao mesmo tempo. Ao mesmo tempo, a separação clara entre stack, heap e text segment ajuda o compilador a otimizar a execução e o uso de memória de forma bastante eficaz.
+
+
+###### Alocação na Stack
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	x := 42
+	printValue(x)
+}
+
+func printValue(val int) {
+	fmt.Println(val)
+}
+```
+
+Nesse exemplo, a variável `x` é um valor simples. Ele é passado por **valor** para a função `printValue`, e não é retornado, nem usado fora do `main`. Como nada escapa, o compilador é feliz e aloca tudo isso na **stack**.
+
+###### Alocação na Heap
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	ptr := createPointer()
+	fmt.Println(*ptr)
+}
+
+func createPointer() *int {
+	x := 42
+	return &x
+}
+```
+
+Agora temos o mesmo valor, `42`, e o mesmo tipo de variável. Mas olha o crime aqui: estamos **retornando um ponteiro para uma variável local**. A stack de `createPointer` vai sumir assim que a função retornar, então se `x` estivesse ali, estaríamos acessando memória morta. O compilador detecta isso e joga `x` direto no **heap**, garantindo que ele sobreviva após o retorno.
+
+### Moral da história
+
+O destino da variável não depende do que ela é, mas do **que você faz com ela**. Se ela ficar no escopo, stack. Se ela sair do escopo, heap. Se você passar por valor, stack. Se você passar por ponteiro, ou armazenar a referência em outro lugar, o compilador provavelmente vai colocá-la no heap.
+
+Isso é ótimo porque o Go faz tudo isso pra você, mas também significa que, se você não souber o que está fazendo, pode estar enchendo o heap de lixo emocional que devia ter ficado na stack.
