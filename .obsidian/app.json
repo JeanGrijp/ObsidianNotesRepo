@@ -4,7 +4,7 @@
     "pageSize": "A4",
     "landscape": true,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 77
   },
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,

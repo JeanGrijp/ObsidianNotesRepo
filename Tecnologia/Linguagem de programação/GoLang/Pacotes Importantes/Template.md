@@ -3,7 +3,7 @@ tags:
   - Tecnologia
   - GoLang
 ---
-Um **template** em [[Go]] é um mecanismo para gerar saídas dinâmicas a partir de um modelo predefinido, usando os pacotes `text/template` (para texto) e `html/template` (para HTML seguro). Ele permite interpolação de dados, controle de fluxo (`if`, `range`), e manipulação de estruturas como [[structs]] e listas. É amplamente utilizado para renderizar HTML em aplicações web, evitando injeção de código malicioso. Templates podem ser definidos diretamente no código ou carregados de arquivos externos.
+Um **template** em [[Go]] é um mecanismo para gerar saídas dinâmicas a partir de um modelo predefinido, usando os pacotes `text/template` (para texto) e `html/template` (para HTML seguro). Ele permite interpolação de dados, controle de fluxo (`if`, `range`), e manipulação de estruturas como [[Structs]] e listas. É amplamente utilizado para renderizar HTML em aplicações web, evitando injeção de código malicioso. Templates podem ser definidos diretamente no código ou carregados de arquivos externos.
 
 ### 📌 Exemplo: Gerando um Relatório Simples
 
@@ -66,7 +66,7 @@ Ainda falta 5 vendas para a meta. Continue assim! 💪
 
 Este exemplo mostra como usar templates para gerar relatórios dinâmicos e incluir lógica condicional (`if`) e funções personalizadas (`sub`). 🚀
 
-Pacote importante usado no exemplo [[os]].
+Pacote importante usado no exemplo [[OS]].
 
 ### 🔍 **Entendendo `template.Must` no Go** 🚀
 

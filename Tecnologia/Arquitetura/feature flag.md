@@ -1,0 +1,7 @@
+Uma _feature flag_ (ou _feature toggle_) é uma técnica de desenvolvimento de software que permite ativar ou desativar funcionalidades específicas de um sistema sem precisar modificar o código-fonte ou fazer um novo deploy. É tipo um interruptor de luz para partes do seu aplicativo: você liga ou desliga recursos como quiser, mesmo em produção. Mágico. Ou seria trágico, dependendo de quem tem o controle.
+
+O principal uso das _feature flags_ é permitir que funcionalidades em desenvolvimento sejam integradas ao código principal sem ficarem visíveis para os usuários finais. Elas também são úteis para fazer _deploys_ graduais, testes A/B, ativações por grupo de usuários (tipo VIPs, beta testers ou aquele pessoal que sempre clica em “experimentar novo design”) e até para desativar funcionalidades problemáticas sem gritaria nem correria.
+
+Do ponto de vista técnico, uma _feature flag_ pode ser uma simples variável booleana (`true` ou `false`), ou uma configuração mais avançada armazenada em bancos de dados, sistemas de gerenciamento de flags, ou controlada por um serviço externo. Sim, há empresas que só fazem isso. Porque, aparentemente, o capitalismo também ama _toggles_.
+
+Resumindo: _feature flags_ dão flexibilidade, controle e — talvez o mais importante — uma forma de não quebrar tudo quando você quiser brincar de “e se a gente mudar isso aqui rapidinho?”.

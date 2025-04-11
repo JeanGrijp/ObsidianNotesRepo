@@ -1,3 +1,7 @@
+---
+tags:
+  - Tecnologia
+---
 **Swaps** referem-se ao processo de transferência de dados entre a **memória RAM** e o **disco de armazenamento** (geralmente o HDD ou SSD) quando a RAM disponível está esgotada. É uma técnica utilizada por sistemas operacionais para gerenciar a memória de forma eficiente, especialmente quando há muitos processos em execução ou quando o uso de memória excede a capacidade física disponível.
 
 ---
@@ -85,7 +89,7 @@ Esse processo é gerenciado automaticamente pelo sistema operacional.
 
 ### **Swap em Relação ao Go**
 
-No contexto de **[[Go]]**, o swap pode afetar o desempenho de programas de alta carga, especialmente aqueles que fazem uso intensivo de **goroutines** ou alocam grandes quantidades de memória na **[[heap]]**.
+No contexto de **[[Go]]**, o swap pode afetar o desempenho de programas de alta carga, especialmente aqueles que fazem uso intensivo de **goroutines** ou alocam grandes quantidades de memória na **[[Heap]]**.
 
 #### Problemas Relacionados ao Swap com Go:
 
@@ -106,7 +110,7 @@ No contexto de **[[Go]]**, o swap pode afetar o desempenho de programas de alta 
     - Reduza o uso de swap ajustando parâmetros como `swappiness` no Linux.
 3. **Monitorar o Uso de Memória**:
     
-    - Utilize ferramentas como [[pprof]] para identificar gargalos no uso de memória.
+    - Utilize ferramentas como [[PProf]] para identificar gargalos no uso de memória.
 
 ---
 

@@ -3,7 +3,7 @@ tags:
   - Tecnologia
   - GoLang
 ---
-O **Garbage Collector (GC)** é um mecanismo automático em Go que gerencia a memória alocada dinamicamente na **[[heap]]**, liberando espaço que não está mais sendo usado pelo programa. Isso evita vazamentos de memória (_[[memory leaks]]_) e facilita o desenvolvimento, eliminando a necessidade de gerenciar a liberação manual de memória.
+O **Garbage Collector (GC)** é um mecanismo automático em Go que gerencia a memória alocada dinamicamente na **[[Heap]]**, liberando espaço que não está mais sendo usado pelo programa. Isso evita vazamentos de memória (_[[memory leaks]]_) e facilita o desenvolvimento, eliminando a necessidade de gerenciar a liberação manual de memória.
 
 ---
 

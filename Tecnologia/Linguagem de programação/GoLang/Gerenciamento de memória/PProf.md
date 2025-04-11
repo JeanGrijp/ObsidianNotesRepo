@@ -1,4 +1,4 @@
-O `pprof` é uma ferramenta integrada no runtime do [[Go]] que permite **perfilamento de desempenho** (profiling) para identificar gargalos e otimizar o uso de recursos como CPU, memória e [[goroutines]]. Ele é essencial para diagnósticos e melhoria de desempenho em aplicações Go.
+O `pprof` é uma ferramenta integrada no runtime do [[Go]] que permite **perfilamento de desempenho** (profiling) para identificar gargalos e otimizar o uso de recursos como CPU, memória e [[GoRoutines]]. Ele é essencial para diagnósticos e melhoria de desempenho em aplicações Go.
 
 ---
 
@@ -99,7 +99,7 @@ go tool pprof
     ```
     
     - Mostra alocações de memória na heap.
-- **[[Goroutines]]**:
+- **[[GoRoutines]]**:
     
     ```sh
     go tool pprof http://localhost:6060/debug/pprof/goroutine

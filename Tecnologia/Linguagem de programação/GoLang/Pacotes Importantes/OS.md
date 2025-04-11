@@ -479,7 +479,7 @@ Olá, Jean! Você tem 25 anos.
 - `strconv.Atoi()` pode converter argumentos para números.
 - `flag` facilita o manuseio de argumentos nomeados (`--nome=Jean`).
 
-Para algo mais avançado, tipo um CLI profissional, podemos criar CLI usando a lib [[cobra]]? 🐍🔥
+Para algo mais avançado, tipo um CLI profissional, podemos criar CLI usando a lib [[Cobra]]? 🐍🔥
 
 ---
 

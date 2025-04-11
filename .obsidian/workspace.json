@@ -9,47 +9,20 @@
         "dimension": 58.18550430816016,
         "children": [
           {
-            "id": "6999ffa0fe224445",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Curso/AUVP/Módulo 04/Módulo 04.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Módulo 04"
-            }
-          },
-          {
-            "id": "acd6819da35da9a5",
+            "id": "79fbab12a78deae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologia/GoLang/Microsserviços em Go.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Microsserviços em Go"
-            }
-          },
-          {
-            "id": "3a4715a128e222e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal, isolando o domínio do caos externo..md",
+                "file": "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Call Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitetura Hexagonal, isolando o domínio do caos externo."
+              "title": "Call Stack"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e2affa5b09a85e82",
@@ -67,37 +40,8 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
-          },
-          {
-            "id": "2aef92857aeed26b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologia/GoLang/Arquitetura/Inversão de Dependência.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inversão de Dependência"
-            }
-          },
-          {
-            "id": "95c73e9c6da9ff2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tecnologia/GoLang/Arquitetura/Programação Orientada a Interfaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programação Orientada a Interfaces"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,8 +94,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,45 +224,45 @@
       "publish:Publicar mudanças": false
     }
   },
-  "active": "3a4715a128e222e5",
+  "active": "79fbab12a78deae4",
   "lastOpenFiles": [
-    "Tecnologia/GoLang/injeção de dependência.md",
-    "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal, isolando o domínio do caos externo..md",
-    "Tecnologia/GoLang/Arquitetura/Programação Orientada a Interfaces.md",
-    "Tecnologia/GoLang/Arquitetura/Arquitetura Hexagonal.md",
-    "Tecnologia/GoLang/Arquitetura/Inversão de Dependência.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Thread.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Call Stack.md",
+    "Tecnologia/Linguagem de programação/GoLang/Estrutura de dados/Stack.md",
+    "Tecnologia/Linguagem de programação/GoLang/Estrutura de dados/LIFO.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Swaps.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Stack Split Check.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Stack Trace.md",
+    "Tecnologia/Linguagem de programação/GoLang/Gerenciamento de memória/Stack.md",
+    "Sem título 1.md",
+    "Tecnologia/Arquitetura/feature flag.md",
+    "Tecnologia/Arquitetura/Arquitetura Hexagonal.md",
+    "Tecnologia/Arquitetura/Arquitetura orientada a eventos.md",
+    "Tecnologia/Arquitetura",
+    "Tecnologia/Arquitetura/Arquitetura Hexagonal, isolando o domínio do caos externo..md",
+    "Tecnologia/Arquitetura/Programação Orientada a Interfaces.md",
+    "Tecnologia/Arquitetura/Inversão de Dependência.md",
+    "Tecnologia/Linguagem de programação/GoLang/injeção de dependência.md",
     "Sem título.md",
     "Screenshot 2025-04-05 212644.png",
-    "Tecnologia/GoLang/Channels.md",
-    "Tecnologia/GoLang/GoRoutines.md",
-    "Tecnologia/GoLang/Microsserviços em Go.md",
-    "Tecnologia/GoLang/Métodos de array em Go.md",
+    "Tecnologia/Linguagem de programação/GoLang/Channels.md",
+    "Tecnologia/Linguagem de programação/GoLang/GoRoutines.md",
+    "Tecnologia/Linguagem de programação/GoLang/Microsserviços em Go.md",
+    "Tecnologia/Linguagem de programação/GoLang/Métodos de array em Go.md",
     "Tecnologia/GoLang/Threads.md",
     "JWT.md",
-    "Tecnologia/GoLang/Arquitetura",
-    "Tecnologia/GoLang/Structs.md",
-    "Tecnologia/GoLang/SQLX.md",
-    "Tecnologia/GoLang/Tags.md",
-    "Tecnologia/GoLang/Go Workspace.md",
-    "Tecnologia/GoLang/Estrutura de dados/Stack.md",
-    "Tecnologia/GoLang/Pacotes Importantes/Template.md",
-    "Tecnologia/GoLang/Conversão de tipos.md",
-    "Tecnologia/Banco de dados/PostgreSQL/Tipos.md",
-    "Tecnologia/Banco de dados/SQL.md",
-    "Tecnologia/Banco de dados/PostgreSQL/PostgreSQL.md",
+    "Tecnologia/Linguagem de programação/GoLang/Arquitetura com Go",
+    "Tecnologia/Linguagem de programação/GoLang/Structs.md",
+    "Tecnologia/Linguagem de programação/GoLang/SQLX.md",
+    "Tecnologia/Linguagem de programação/GoLang/Tags.md",
     "Tecnologia/Banco de dados/PostgreSQL",
-    "Tecnologia/GoLang/Pacotes Importantes/strconv.md",
-    "Tecnologia/GoLang/Pacotes Importantes/OS.md",
-    "Tecnologia/GoLang/Pacotes Importantes/Cobra.md",
     "Tecnologia/GoLang/Pacotes Importantes/Sem título",
-    "Tecnologia/GoLang/Pacotes Importantes",
-    "Tecnologia/GoLang/Ponteiros.md",
+    "Tecnologia/Linguagem de programação/GoLang/Pacotes Importantes",
     "Teoria Musical",
     "Tecnologia/Java",
     "Tecnologia/Docker/Dockerfile",
     "Tecnologia/Kubernets",
-    "Tecnologia/GoLang/Algoritmos",
-    "Tecnologia/GoLang/Estrutura de dados",
+    "Tecnologia/Linguagem de programação/GoLang/Algoritmos",
     "Captura de tela 2024-12-07 190003 1.png",
     "Captura de tela 2024-12-07 190003.png",
     "Pasted image 20241007070914.png",

@@ -8,7 +8,7 @@ aliases:
 ---
 # O que é uma Stack?
 
-Uma **Stack** (Pilha) é uma estrutura de dados baseada no princípio **LIFO** (_Last In, First Out_), ou seja, o último elemento adicionado é o primeiro a ser removido. Essa estrutura é útil em diversos cenários, como:
+Uma **Stack** (Pilha) é uma estrutura de dados baseada no princípio **[[LIFO]]** (_Last In, First Out_), ou seja, o último elemento adicionado é o primeiro a ser removido. Essa estrutura é útil em diversos cenários, como:
 
 - Implementação de chamadas de função em linguagens de programação
 - Algoritmos de busca e backtracking (ex.: DFS - _Depth First Search_)

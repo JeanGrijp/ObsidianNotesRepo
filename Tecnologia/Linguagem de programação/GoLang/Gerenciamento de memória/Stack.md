@@ -1,3 +1,11 @@
+---
+tags:
+  - Tecnologia
+  - DataStructures
+  - SoftwareArchitecture
+  - Security
+  - GoLang
+---
 A **stack** é uma área de memória gerenciada automaticamente, usada para armazenar variáveis locais, argumentos de funções, e informações de controle de execução. Ela segue uma estrutura **LIFO** (Last In, First Out), o que significa que o último elemento adicionado é o primeiro a ser removido. Vamos detalhar como ela funciona e como os dados são armazenados e gerenciados.
 
 ---

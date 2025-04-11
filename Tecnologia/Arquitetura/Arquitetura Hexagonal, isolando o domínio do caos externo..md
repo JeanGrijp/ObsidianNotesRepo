@@ -5,6 +5,8 @@ tags:
   - Aprendizagem
   - Produtividade
   - SoftwareArchitecture
+aliases:
+  - Jean Grijp
 ---
 ## Sumário
 
@@ -105,7 +107,7 @@ Por fim, a arquitetura Hexagonal promove a **independência tecnológica**. Isso
 
 ### 5. Exemplo prático
 
-Para tornar mais concreto o funcionamento da [[arquitetura Hexagonal]], imagine uma aplicação simples de gerenciamento de links. Vamos ver como isso pode ser estruturado em [[Go]] utilizando os princípios que discutimos até aqui.
+Para tornar mais concreto o funcionamento da [[Arquitetura Hexagonal]], imagine uma aplicação simples de gerenciamento de links. Vamos ver como isso pode ser estruturado em [[Go]] utilizando os princípios que discutimos até aqui.
 
 ###### Estrutura de pastas:
 

@@ -20,7 +20,7 @@ Um **memory leak** ocorre quando um programa reserva (aloca) memória, mas falha
     - Em algumas linguagens, como C ou Python, isso é uma causa comum de vazamentos. Em [[Go]], o Garbage Collector consegue resolver ciclos de referência, minimizando esse problema.
 3. **Recursos Externos Não Liberados**:
     
-    - Recursos alocados fora da [[heap]], como arquivos, conexões de rede ou handles de sistema operacional, não são liberados corretamente.
+    - Recursos alocados fora da [[Heap]], como arquivos, conexões de rede ou handles de sistema operacional, não são liberados corretamente.
     - Em Go, isso ocorre quando não se usa `defer` ou funções adequadas para liberar recursos.
     
     Exemplo de problema:
@@ -56,7 +56,7 @@ Um **memory leak** ocorre quando um programa reserva (aloca) memória, mas falha
     - O programa consome toda a memória disponível, causando travamentos.
 2. **Degradação de Desempenho**:
     
-    - À medida que a memória se esgota, o sistema pode se tornar lento devido ao aumento de [[swaps]] (uso de memória secundária) ou maior carga no Garbage Collector.
+    - À medida que a memória se esgota, o sistema pode se tornar lento devido ao aumento de [[Swaps]] (uso de memória secundária) ou maior carga no Garbage Collector.
 3. **Imprevisibilidade**:
     
     - O comportamento do programa pode variar dependendo de quanta memória está disponível no sistema.
@@ -102,7 +102,7 @@ Um **memory leak** ocorre quando um programa reserva (aloca) memória, mas falha
     - Em linguagens onde o GC não resolve ciclos, elimine referências circulares manualmente.
 5. **Ferramentas de Diagnóstico**:
     
-    - Use ferramentas para detectar vazamentos, como _[[pprof]]_ em Go, ou analisadores de heap.
+    - Use ferramentas para detectar vazamentos, como _[[PProf]]_ em Go, ou analisadores de heap.
 
 ---
 

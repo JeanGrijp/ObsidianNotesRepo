@@ -10,7 +10,7 @@ tags:
 
 `sqlx` é uma biblioteca para [[Go]] que **estende o pacote `database/sql`**, oferecendo:
 
-- Binds automáticos entre [[queries]] e [[structs]]
+- Binds automáticos entre [[queries]] e [[Structs]]
 - Suporte a queries nomeadas
 - Execução mais simples e segura de SELECT, INSERT, UPDATE
 - Tratamento elegante de dados nulos (`NULL`)
