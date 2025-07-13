@@ -3,7 +3,7 @@ tags:
   - Tecnologia
   - GoLang
 ---
-Channels são estruturas que permitem o envio e recebimento de valores entre [[GoRoutines]] de forma segura e sincronizada. Eles são parte essencial do modelo de concorrência do [[Go]], permitindo que as goroutines se comuniquem sem a necessidade de bloqueios manuais (como [[mutex]]).
+Channels são estruturas que permitem o envio e recebimento de valores entre [[Goroutine]] de forma segura e sincronizada. Eles são parte essencial do modelo de concorrência do [[Go]], permitindo que as goroutines se comuniquem sem a necessidade de bloqueios manuais (como [[mutex]]).
 
 O canal é criado com a função `make`:
 

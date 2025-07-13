@@ -59,3 +59,5 @@ func main() {
 Nesse exemplo, a função `createLargeSlice` retorna um ponteiro para um slice que foi alocado com `make`. O compilador coloca esse slice na heap porque ele será acessado fora da função onde foi criado. Enquanto o ponteiro estiver sendo usado no `main`, o GC mantém os dados intactos. Quando a última referência ao slice for perdida, o espaço será automaticamente liberado.
 
 Por fim, apesar da flexibilidade, a heap tem suas limitações. Ela é mais lenta que a stack, tanto na alocação quanto na liberação, e pode causar fragmentação de memória se for mal utilizada. Como ela depende do Garbage Collector, o tempo de execução de um programa pode sofrer pausas inesperadas para que a coleta aconteça. Ainda assim, a heap é indispensável para dados de longa duração e para estruturas que precisam ser compartilhadas.
+
+

@@ -1,0 +1,3 @@
+- Bug no link do breadcrumb, ao clicar no no link apresenta um erro 404.
+- O botão voltar da erro ao ser clicado, na tela de order quotations
+- Formatação da moeda está sendo pelo idioma, mas precisa alterar pelo selected country.

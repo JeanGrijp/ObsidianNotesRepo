@@ -1,0 +1,12 @@
+---
+tags:
+  - Tecnologia
+  - GoLang
+---
+Preempção em Golang se refere ao mecanismo pelo qual o escalonador ([[scheduler]]) da linguagem interrompe a execução de uma [[goroutine]] para que outra possa ser executada. Esse conceito é fundamental para garantir que nenhuma goroutine monopolize o uso do processador, promovendo assim o uso eficiente dos recursos e a justiça na execução concorrente dos processos. No início, o [[Go]] utilizava um modelo cooperativo, em que a troca de contexto só acontecia em pontos bem definidos, como durante chamadas de sistema ou operações de bloqueio. Isso podia causar situações em que uma goroutine rodava por muito tempo, atrasando as demais, especialmente se estivesse realizando cálculos intensivos em laços longos sem chamadas bloqueantes.
+
+Com o tempo, o [[runtime]] do Go evoluiu para implementar preempção mais próxima da preempção “real” presente em sistemas operacionais modernos. Desde o Go 1.2, melhorias constantes foram implementadas, e a partir do Go 1.14, o runtime passou a ser capaz de interromper goroutines em mais pontos do código, inclusive dentro de loops e funções que não fazem chamadas de sistema. Isso foi possível graças a verificações periódicas inseridas automaticamente pelo compilador no código das goroutines, conhecidas como “safe points”. Esses pontos seguros permitem que o scheduler interrompa uma goroutine, trocando-a por outra, mesmo que ela esteja executando código puramente computacional.
+
+A preempção eficiente torna o ambiente de concorrência do Go mais robusto e previsível, evitando o chamado “starvation”, que é quando uma ou mais goroutines deixam de executar por muito tempo devido ao domínio de outras. Com a preempção, o Go consegue balancear a carga entre milhares de goroutines ativas, dando a impressão de paralelismo, mesmo em ambientes com poucos núcleos de CPU. No entanto, vale lembrar que, apesar de ser mais transparente, a preempção em Go ainda depende de pontos inseridos no código, então operações intensivas e que evitem esses pontos ainda podem impactar a responsividade do sistema.
+
+Em resumo, a preempção em Golang garante que o agendador do runtime consiga controlar o tempo de execução de cada goroutine, promovendo um ambiente concorrente mais estável, responsivo e justo. Para o desenvolvedor, normalmente não é necessário se preocupar com detalhes de preempção, pois o runtime cuida disso de forma automática, mas é importante entender esse conceito para diagnosticar situações de performance ou deadlocks em aplicações concorrentes.
